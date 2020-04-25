@@ -1,3 +1,7 @@
 jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
 
 http://thisisjasonjafari.github.io/my-datascientise-handcode
+
+
+
+pip freeze -l > requirements.txt

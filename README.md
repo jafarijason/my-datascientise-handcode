@@ -18,4 +18,4 @@
 
 
 
-[003-Data Cleaning Challenge/001-Handling missing values](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data Cleaning Challenge/001-Handling missing values.html)  
+[003-Data Cleaning Challenge/001-Handling missing values](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/001-Handling%20missing%20values.html)  

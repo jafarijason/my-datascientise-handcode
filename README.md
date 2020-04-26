@@ -42,9 +42,10 @@
 -----------
 
 
+[005- seaborn ](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/001-sea.html)  
 
 
-[005- ](003-Data%20Cleaning%20Challenge/002-PlotlyTutorial.html)  
+[005-PlotlyTutorial ](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/002-PlotlyTutorial.html)  
 
 -----------
 

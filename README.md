@@ -32,3 +32,33 @@
 
 
 [003-Data Cleaning Challenge / 004-Parsing Dates](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/004-Parsing%20Dates.html)  
+
+-----------
+[very usefull notebooks](https://www.kaggle.com/residentmario/welcome-to-data-visualization)
+
+[Geolocation visualisations](https://www.kaggle.com/beyondbeneath/geolocation-visualisations)
+
+[PLOTLY1](https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)
+
+
+[PLOTLY2](https://www.kaggle.com/hakkisimsek/plotly-tutorial-2)
+
+
+[PLOTLY3](https://www.kaggle.com/hakkisimsek/plotly-tutorial-3)
+
+
+[PLOTLY4](https://www.kaggle.com/hakkisimsek/plotly-tutorial-4)
+
+
+[PLOTLY5](https://www.kaggle.com/hakkisimsek/plotly-tutorial-5)
+
+
+
+[PLOTLY-advance](https://www.kaggle.com/thebrownviking20/intermediate-visualization-tutorial-using-plotly)
+
+
+
+-----------
+
+
+

@@ -34,6 +34,22 @@
 [003-Data Cleaning Challenge / 004-Parsing Dates](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/004-Parsing%20Dates.html)  
 
 -----------
+
+
+
+[004-FIFA World Cup (1930 to 2014) - Data analysis/FIFA World Cup (1930 to 2014) - Data analysis](https://thisisjasonjafari.github.io/my-datascientise-handcode/004-FIFA%20World%20Cup%20(1930%20to%202014)%20-%20Data%20analysis/FIFA%20World%20Cup%20(1930%20to%202014)%20-%20Data%20analysis.html)  
+
+-----------
+
+
+
+
+[005- ]( )  
+
+-----------
+
+
+
 [very usefull notebooks](https://www.kaggle.com/residentmario/welcome-to-data-visualization)
 
 [Geolocation visualisations](https://www.kaggle.com/beyondbeneath/geolocation-visualisations)

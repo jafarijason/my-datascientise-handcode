@@ -1,0 +1,586 @@
+S#,Date,Islamic Date,Blast Day Type,Holiday Type,Time,City,Latitude,Longitude,Province,Location,Location Category,Location Sensitivity,Open/Closed Space,Influencing Event/Event,Target Type,Targeted Sect if any,Killed Min,Killed Max,Injured Min,Injured Max,No. of Suicide Blasts,Explosive Weight (max),Hospital Names,Temperature(C),Temperature(F)
+1,Sunday-November 19-1995,25 Jumaada al-THaany 1416 A.H,Holiday,Weekend,N/A,Islamabad,33.718,73.0718,Capital,Egyptian Embassy,Foreign,High,Closed,,Foreigner,None,14,15,,60,2,,,15.835,60.503
+2,Monday-November 6-2000,10 SHa`baan 1421 A.H,Working Day,,N/A,Karachi,24.9918,66.9911,Sindh,office of Nawa-e-Waqt,Office Building,Low,Closed,,Media,None,,3,,3,1,,,23.77,74.786
+3,Wednesday-May 8-2002,25 safar 1423 A.H,Working Day,,7:45 AM,Karachi ,24.9918,66.9911,Sindh,Pakistan Navy bus Parked outside Five Star Sheraton Hotel ,Hotel,Medium,Closed,,Foreigner,Christian,13,15,20,40,1,2.5 Kg,1.Jinnah Postgraduate Medical Center 2. Civil Hospital Karachi 3. PN Shifa,31.46,88.628
+4,Friday-June 14-2002,3 Raby` al-THaany 1423 A.H,Working Day,,11:10:00 AM,Karachi,24.9918,66.9911,Sindh,US Consulate Civil Lines Area ,Foreign,High,Closed,,Foreigner,Christian,,12,,51,1,NA,NA,31.43,88.574
+5,Friday-July 4-2003,4 Jumaada al-awal 1424 A.H,Working Day,,N/A,Quetta,30.2095,67.0182,Baluchistan,Imambargah MeCongy Road Quetta,Religious,Medium,Closed,during Friday prayer,Religious,Shiite,44,47,,65,1,NA,"1.CMH Quetta 
+2.Civil Hospital 3. Boland Medical Complex",33.12,91.616
+6,Thursday-December 25-2003,2 Thw al-Qi`dah 1424 A.H.,Holiday,Christmas/birthday of Quaid-e-Azam,1:40:00 PM/1:42:00 PM,Rawalpindi,33.6058,73.0437,Punjab,Jhanda Chichi area rawalpindi ,Mobile,Low,Open,president's/chief of army staff convoy passing from there,Military,None,16,18,,50,2,30kg in each car,"1.District headquarters 
+Hospital ",9.445,49.001
+7,Saturday-February 28-2004,8 MuHarram 1425 A.H,Working Day,,,Rawalpindi,33.6058,73.0437,Punjab,Yadgar-i-Hussaini in Satellite Town,Religious,Medium,Closed,maghrib prayer was in process,Religious,shiite,,1,3,4,1,NA,NA,15.275,59.495
+8,Friday-May 7-2004,18 Raby` al-awal 1425 A.H,Working Day,,1:20:00/1:17:00 PM,Karachi ,24.9918,66.9911,Sindh,Karachi Shia mosque Sindh Madrassatul Islam,Religious,Medium,Closed,Friday prayer was in progress,Religious,shiite,14,15,96,200,1,2kg,Civil hospital ,33.86,92.948
+9,Monday-May 31-2004,,Working Day,,evening,Karachi ,24.9918,66.9911,Sindh,Imambargah off M.A Jinnah road near Numaish intersection,Religious,Medium,Closed,,Religious,Shiite,16,18,,35,1,NA,Civil hospital-Liaquat National hospital-Jinnah Postgraduate Medical Center,31.605,88.889
+10,Thursday-June 3-2004,15 Raby` al-THaany 1425 A.H,Working Day,,N/A,North waziristan,32.9746,70.1456,FATA,checkpost in north waziristan-close to Afghanistan border,Military,High,Open,,Military,None,,2,,2,1,,,27.18,80.924
+11,Wednesday-July 28-2004,11 Jumaada al-THaany 1425 A.H,Working Day,,8:50:PM,Kohat,33.5833,71.4333,KPK,Near military facility/official Residence of General Officer Commanding,Residence,High,Closed,Army,Military,None,2,3,,3,2,NA,CMH Kohat,32.43,90.374
+12,Friday-July 30-2004,13 Jumaada al-THaany 1425 A.H,Working Day,,7:20 PM,Attock ,33.7645,72.3667,Punjab, Mr Aziz election rally in jaffar village in fateh jang,Park/Ground,Low,Open,Election rally ,Government Official,None,,7,44,70,1,NA,1.District Headquarters hospital-rwp 2.PIMS Hospital 3. Tehsil headquarters hospital-Fateh Jang,26.665,79.997
+13,Friday-October 1-2004,17 SHa`baan 1425 A.H,Working Day,,1:27 PM/1:25 PM,Sialkot,32.4972,74.5361,Punjab,zainabia mosque-just a Km away from city police station on Raja road,Religious,Medium,Closed,Friday prayer,Religious,shiite,25,31,50,75,1,NA,Allama Iqbal Memorial DHQ Hospital-Sardar Begum Hospital-and numner of other hospitals in Sialkot-Daska-Gujranwala and Lahore,27.51,81.518
+14,Sunday-October 10-2004,26 SHa`baan 1425 A.H.,Holiday,Weekend,5:55:00/6:40:00 PM,Lahore ,31.5451,74.3407,Punjab,Jamia Masjid Kashmirian in Mochi Gate,Religious,Medium,Closed,Jamia Masjid /Shia Mosque,Religious,shiite,4,5,6,10,1,NA,Mayo Hospital ,24.39,75.902
+15,Saturday-March 19-2005,9 safar 1426 A.H,Working Day,,11.45PM /10.30 pm,Quetta,30.2095,67.0182,Baluchistan,Gandava Town Shrine,Religious,Medium,Closed,Urs Ceremony,Religious,Shiite,25,50,8,100,1,NA,NA,16.5,61.7
+16,Thursday-April 28-2005,19 Raby` al-awal 1426 A.H,Working Day,,N/A,Swat,35.2227,72.4258,KPK,Baidara village of Matta-District Swat ,Park/Ground,Low,Open,NA,civilian,None,,2,,,1,NA,NA,19.935,67.883
+17,Friday-May 27-2005,19 Raby` al-THaany 1426 A.H,Working Day,,11:00:00 AM,Islamabad,33.718,73.0718,Capital,Shrine of Bari Imam,Religious,Medium,Closed,"Shia Muslim Annual 
+Congregation ",Civilian,Shiite/sunni,20,25,82,100,1,NA,1. PIMS 2.Polyclinic 3.CDA Hospital 4.federal govt services 5.rwp generl hosp,27.16,80.888
+18,Monday-May 30-2005,22 Raby` al-THaany 1426 A.H,Working Day,,evening,Karachi ,24.9918,66.9911,Sindh,Courtyard of an Imambargah(Madinatul Ilm ) in Gulshan e Iqbal ,Religious,Medium,Closed,evening prayer,Religious,shiite,5,6,19,30,1,NA,1. Patel Hospital 2. JMPC,31.945,89.501
+19,Thursday-February 9-2006,10 MuHarram 1427 A.H,Holiday,Ashura,9:35:00 AM,Hangu,33.5351,71.0713,KPK,Hangu-Tall road-Ashura Procession,Park/Ground,Low,Open,Ashura Day,Religious,Shiite,37,40,90,,1,NA,Hangu Hospital ,15.495,59.891
+20,Thursday-March 2-2006,2 safar 1427 A.H.,Working Day,,9:00:00 AM,Karachi,24.9918,66.9911,Sindh,Infront of USA consulate near marriott hotel,Hotel,Medium,Open,Terrorists attacked convoy of david foy-american diplomat.,Foreigner,Christian,4,5,30,54,1,10-15 kg,,25.3,77.54
+21,Wednesday-April 12-2006,14 Raby` al-awal 1427 A.H,Holiday,Eid Milad un-Nabi,7.00 pm,Karachi ,24.9918,66.9911,Sindh,Nishter Park ,Park/Ground,Medium,Open,Eid Miladun Nabi,Religious,Sunni,47,57,,100,1,5 kg,1. Liaquat National Hospital 2. Civil Hospital KHI 3. JPMC 4. Abbasi Shaheed Hospital,28.415,83.147
+22,Friday-June 2-2006,6 Jumaada al-awal 1427 A.H,Working Day,,10.30 am,Bannu,32.9861,70.6042,KPK,Bakkahel Area of FR Bannu,Mobile,High,Open,Army convoy ,Military,None,6,7,7,8,1,NA,1. Combined Military 2. Hospital Peshawar,26.125,79.025
+23,Monday-June 26-2006,30 Jumaada al-awal 1427 A.H,Working Day,,3:30:00 PM,North Waziristan,32.9746,70.1456,FATA,"Aisha Checkpoint-10km East of 
+Miranshah",Military,High,Open,NA,Military,None,6,7,,26,1,NA,NA,28.61,83.498
+24,Sunday-August 6-2006,12 Rajab 1427 A.H,Holiday,Weekend,8.00 am,Lasbela,25.8377,66.5224,Baluchistan,"Zehri Street-Main Market
+Hub",Market,Low,Open,NA,Civilian,None,,1,,0,1,NA,NA,27.5,81.5
+25,Wednesday-November 8-2006,17 SHawwal 1427 A.H,Working Day,,8.30am,Malakand ,34.503,71.9046,KPK,Dargai Military Base-100km north of Peshawar,Military,High,Open,Recruits parade,Military,None,40,42,20,39,1,NA,"1. CMH Mardan
+2. CMH Peshawar",19.205,66.569
+26,Friday-November 17-2006,26 SHawwal 1427 A.H.,Working Day,,7.30 am/7:15AM,Peshawar,34.0043,71.5448,KPK,"Fayaz Khalil Shaheed
+Chowk",Mobile,High,Open,police van,Police,None,,1,,2,1,NA,NA,17.275,63.095
+27,Sunday-December 3-2006,12 Thw al-Qi`dah 1427 A.H.,Holiday,Weekend,N/A,Bannu,32.9861,70.6042,KPK,Speen Tangi-kohat bannu road,Police,High,Open,NA,Police,None,,1,,1,1,NA,NA,4.705,40.469
+28,Monday-January 22-2007,3 MuHarram 1428 A.H,Working Day,,10:30:00 AM,North Waziristan,32.9746,70.1456,FATA,"Miltary convoy near Mir ali north
+Wazirstan ",Mobile,High,Open,Military convoy,Military,None,4,5,23,25,1,NA,NA,2.325,36.185
+29,Friday-January 26-2007,7 MuHarram 1428 A.H,Working Day,,2:37:00 PM,Islamabad,33.718,73.0718,Capital,Islamabad Marriott Hotal ,Hotel,Medium,Closed,Indian High Commission Function,Foreigner,None,1,2,5,7,1,NA,1.poly Clinic Hospital ,16.3,61.34
+30,Saturday-January 27-2007,8 MuHarram 1428 A.H,Working Day,,8:40:00 PM,Peshawar ,34.0043,71.5448,KPK,near Mosque in QissaKhawani Bazaar,Religious,Medium,Closed,Muharram procession about to start,Civilian,shiite,13,15,30,60,1,NA,1.Lady Reading hospital ,15.165,59.297
+31,Monday-January 29-2007,10 MuHarram 1428 A.H,Holiday,Ashura,N/A,D.I Khan ,31.8238,70.9095,KPK,Checkpost Dera Ismial Khan ,Police,High,Open,Muharram procession,Civilian,shiite,2,3,,7,1,NA,"1.DIK Headquarters 
+Hospital ",17.745,63.941
+32,Saturday-February 3-2007,15 MuHarram 1428 A.H.,Working Day,,6:17:00 AM,Lakki Marwat,32.6018,70.9148,KPK,"Ghazanikhel Market 
+Laik marwat",Market,Low,Open,,Civilian,None,,1,,,1,NA,NA,17.52,63.536
+33,Saturday-February 3-2007,15 MuHarram 1428 A.H.,Working Day,,12:15:00 PM,Tank,31.8238,70.9095,KPK,Military Convoy Barakhel area-tank,Mobile,High,Open,Military convoy,Military,None,,2,7,8,1,NA,1.CMH  Dera,19.935,67.883
+34,Tuesday-February 6-2007,18 MuHarram 1428 A.H.,Working Day,,8:50:00 PM/9:10 PM,Islamabad ,33.718,73.0718,Capital,Islamabad Airport ,Airport,High,Open,,Civilian,None,,1,3,10,1,NA,NA,16.635,61.943
+35,Saturday-February 17-2007,29 MuHarram 1428 A.H,Working Day,,11:05:00 AM,Quetta ,30.2095,67.0182,Baluchistan,"Quetta District court senior civil
+ judge District Court",Government,High,Closed,,Civilian,None,16,17,30,35,1,NA,"1.Quttea Civil hospital 
+2.Bolan medical hospital ",8.72,47.696
+36,Thursday-March 29-2007,10 Raby` al-awal 1428 A.H,Working Day,,11:45 AM,Gujrat,32.5737,74.0786,Punjab,"Army training area guliana 
+near Kharian Contonment",Military,High,Open,,Military,None,1,2,6,8,1,NA,"1.Combined Military
+ Hospital ",25.595,78.071
+37,Saturday-April 28-2007,11 Raby` al-THaany 1428 A.H.,Working Day,,6:55 PM,Charsadda,34.1509,71.7359,KPK,"Federal Interior Minister Speech 
+rallyy hometown Charsadda",Park/Ground,Low,Open,Rally Charsadda ,Government Official,None,25,35,29,60,1,NA,"1.District Headquarters Hospital
+ 2.Lady Reading Hospital ",28.055,82.499
+38,Tuesday-May 15-2007,28 Raby` al-THaany 1428 A.H,Working Day,,12:55:00 PM,Peshawar ,34.0043,71.5448,KPK,Peshawar Hotel ,Hotel,Medium,Closed,,Foreigner,Sunni,22,26,12,35,1,NA,1.Lady Reading Hospital ,31.1,87.98
+39,Monday-May 28-2007,11 Jumaada al-awal 1428 A.H,Working Day,,About 12pm,Tank ,32.226,70.3761,KPK,Boltonabad aera,Mobile,High,Open,rammed the vehicle into FC vehicle,Military,None,,3,,2,1,NA,NA,24.935,76.883
+40,Wednesday-July 4-2007,19 Jumaada al-THaany 1428 A.H,Working Day,,10:25am,North Waziristan,32.9746,70.1456,FATA,Miltary convoy in bannu Gurbaz area,Mobile,High,Open,Military convoy,Military,None,8,10,9,12,1,NA,1.CMH Peshawar,26.975,80.555
+41,Thursday-July 12-2007,27 Jumaada al-THaany 1428 A.H,Working Day,,N/A,Swat ,35.2227,72.4258,KPK,Security Force convoy in mingora,Mobile,High,Open,Military convoy,Military,None,6,7,4,8,1,NA,"1.Agency Headquarters 
+hospital ",31.74,89.132
+42,Thursday-July 12-2007,27 Jumaada al-THaany 1428 A.H,Working Day,,4:30:00 PM,North Waziristan,32.9746,70.1456,FATA,Political Agent Office in Miranshah,Government,High,Closed,,Government official,None,2,4,,3,1,NA,NA,31.39,88.502
+43,Saturday-July 14-2007,29 Jumaada al-THaany 1428 A.H,Working Day,,2:00:00 PM,North Waziristan,32.9746,70.1456,FATA,Razmak town’s Daznaray area-20kms to the north of Miramshah,Mobile,High,Open,Frontier Constabulary convoy,Military,None,23,24,26,29,1,NA,1.CMH Bannu hospital,26.02,78.836
+44,Sunday-July 15-2007,1 Rajab 1428 A.H,Holiday,Weekend,3:30 PM-4:00:00 PM/4:15PM,D.I Khan,31.8238,70.9095,KPK,police recruitment center,Police,High,Closed,recruitment process in progress,Police,None,25,30,50,61,1,NA,"1.District Headquarters 
+Hospital ",28.82,83.876
+45,Sunday-July 15-2007,1 Rajab 1428 A.H,Holiday,Weekend,between 7:00-7:40 AM,Swat ,35.2227,72.4258,KPK,Matta,Mobile,High,Open,police bus going from Kabal to Matta,Police,None,17,20,40,47,1,NA,,27.255,81.059
+46,Tuesday-July 17-2007,3 Rajab 1428 A.H,Working Day,,8:27:00 AM,Islamabad ,33.718,73.0718,Capital,outside the venue of distric bar convention council Islamabad ,Government,High,Open,Chief Justice Iftikhar muhammad ch had to address overthere,Government official,None,16,17,50,70,1,NA,1.Fedral govt services hospital 2.PIMS,28.875,83.975
+47,Tuesday-July 17-2007,3 Rajab 1428 A.H,Working Day,,1:30:00 PM,North Waziristan,32.9746,70.1456,FATA,"Security check post Miramshah 
+North Wazirstan ",Military,High,Open,,Military,None,,4,2,3,1,NA,1.CMH Bannu hospital,26.945,80.501
+48,Thursday-July 19-2007,5 Rajab 1428 A.H,Working Day,,8:40:00 AM,Lasbela,25.8377,66.5224,Baluchistan,Industrial town hub baluchistan ,Mobile,High,Open,chinese engineers were going from Karachi to Hub,Foreigner,Christian,28,30,28,50,1,NA,,32.395,90.311
+49,Thursday-July 19-2007,5 Rajab 1428 A.H,Working Day,,7:50:00 AM,Hangu,33.5351,71.0713,KPK,Training Center in Hangu,Police,High,Closed,,Police,None,6,8,30,35,1,NA,,30.735,87.323
+50,Thursday-July 19-2007,5 Rajab 1428 A.H,Working Day,,N/A,Kohat ,33.5833,71.4333,KPK,Kohat Mosque ,Religious,Medium,Closed,,Religious,Sunni,15,20,8,58,1,NA,CMH kohat,30.275,86.495
+51,Friday-July 20-2007,6 Rajab 1428 A.H,Working Day,,12:30:00 PM/11:00AM,North Waziristan,32.9746,70.1456,FATA,"Security check post Miramshah 
+North Wazirstan ",Military,High,Open,,Military,None,,4,5,6,1,NA,NA,28.375,83.075
+52,Friday-July 27-2007,13 Rajab 1428 A.H,Working Day,,5:25 PM,Islamabad ,33.718,73.0718,Capital,near Hotel in Abpara market,Hotel,Medium,Closed,,Police,None,14,15,50,70,1,NA,"1.Federal Government
+ services hospital
+2.Capital Development 
+Authority hospital ",26.39,79.502
+53,Friday-August 3-2007,20 Rajab 1428 A.H.,Working Day,,Night,Swat ,35.2227,72.4258,KPK,District Swat gora village matta,Mobile,Low,Open,,civilian,None,,2,5,6,1,NA,NA,28.01,82.418
+54,Saturday-August 4-2007,21 Rajab 1428 A.H,Working Day,,10:30am,Kuram Agency ,32.9746,70.1456,FATA,Parachinar,Transport,Low,Open,,civilian,Sunni,9,23,35,43,1,NA,"1.Agency Headqurters 
+Hospital ",25.835,78.503
+55,Friday-August 17-2007,4 SHa`baan 1428 A.H,Working Day,,NA,Tank,32.226,70.3761,KPK, Military Convoys in Tank district,Mobile,High,Open,,Military,None,,,3,5,1,NA,NA,26.185,79.133
+56,Sunday-August 19-2007,6 SHa`baan 1428 A.H,Holiday,Weekend,NA,North Waziristan,32.9746,70.1456,FATA,"North Wazirstan Mirali Military
+ checkpost ",Military,High,Open,,Military,None,,2,,2,1,NA,NA,29.01,84.218
+57,Sunday-August 19-2007,6 SHa`baan 1428 A.H,Holiday,Weekend,NA,Bannu,32.9861,70.6042,KPK,Bannu Police Check post ,Police,High,Open,,Police,None,,1,,4,1,NA,NA,29.965,85.937
+58,Monday-August 20-2007,7 SHa`baan 1428 A.H,Working Day,,9:00:00 AM,Hangu,33.5351,71.0713,KPK,"Checkpost on thall-parachinar road/kurram road
+ mandori village ",Military,High,Open,,Military,None,3,7,14,18,1,NA,1.Nawagai hospital ,27.195,80.951
+59,Friday-August 24-2007,11 SHa`baan 1428 A.H,Working Day,,NA,North Waziristan,32.9746,70.1456,FATA,miranshah Military convoys ,Mobile,High,Open,military convoy,Military,None,6,7,22,37,2,NA,1.Bannu Hospital ,28.365,83.057
+60,Sunday-August 26-2007,13 SHa`baan 1428 A.H,Holiday,Weekend,NA,Shangla ,34.8015,72.757,KPK,Machaar area of Shangla District ,Police,High,Open,,police,None,,4,,2,1,NA,NA,27.475,81.455
+61,Saturday-September 1-2007,19 SHa`baan 1428 A.H,Working Day,,10:00:00 AM,Bajaur Agency,34.8718,71.5249,FATA,Truck carrying security personeel was attacked in Mamond area,Mobile,High,Open,truck carrying security personnel,Military,None,3,7,4,9,1,NA,"1.Agency Headquarters 
+hospital ",28.84,83.912
+62,Saturday-September 1-2007,19 SHa`baan 1428 A.H,Working Day,,,South Waziristan,32.3202,69.8597,FATA,check-post of the troops in the Jandola area of South Waziristan.,Military,High,Closed,,Military,None,,0,,,1,NA,NA,29.58,85.244
+63,Tuesday-September 4-2007,22 SHa`baan 1428 A.H,Working Day,,7:15:00 AM,Rawalpindi,33.6058,73.0437,Punjab,1.Qasim Market Defence Ministry Bus,Mobile,High,Open,,Military,None,18,25,,,2,NA,"1.District Headquarters Rwp
+2.Rwp General Hospital",27.15,80.87
+64,Tuesday-September 4-2007,22 SHa`baan 1428 A.H,Working Day,,7:15:00 AM,Rawalpindi,33.6058,73.0437,Punjab,Near R.A Bazar behind general Headquarters ,Market,Low,Open,,Military,None,,7,,,1,NA,"1.District Headquarters Rwp
+2.Rwp General Hospital",27.15,80.87
+65,Tuesday-September 11-2007,29 SHa`baan 1428 A.H,Working Day,,NA,D.I Khan,31.8238,70.9095,KPK,Passanger van at Bannu adda/chungi,Mobile,Low,Open,,Civilian,None,17,19,16,19,1,NA,"DI Khan Headquarter
+ hospital ",30.815,87.467
+66,Thursday-September 13-2007,1 RamaDHaan 1428 A.H,Working Day,,7:15:00 PM,Haripur,34.0011,72.9372,KPK,army officers mess in Tarbela ghazi,Military,High,Closed, military convoy,Military,None,15,20,11,46,1,NA,"1.Wapda Hospital    2.CMH Pindi 
+3.CMH Attock ",26.975,80.555
+67,Saturday-September 22-2007,10 RamaDHaan 1428 A.H,Working Day,,2:00:00 AM,Tank,32.226,70.3761,KPK,military convoy going from Tank,Mobile,High,Open, ,Military,None,,5,3,10,1,NA,NA,24.705,76.469
+68,Monday-October 1-2007,19 RamaDHaan 1428 A.H,Working Day,,8:30:00 AM,bannu,32.9861,70.6042,KPK,checkpost near Dawa bridge/Durani Abshar Chowk,Police,High,Open,N/A,police,None,,16,29,32,1,NA,"1.District Headquartar 
+Hospital ",24.57,76.226
+69,Thursday-October 18-2007,6 SHawwal 1428 A.H,Working Day,,12:00 mid night,karachi ,24.9918,66.9911,Sindh,"Benazir Survives midnight 
+carnage Karsaz bridge Sharea Faisal",Mobile,High,Open,Rally ppp,Government Official,None,125,145,100,550,2,NA,"1.Jinnah Hospital 
+2.Liaquat hospital ",28.025,82.445
+70,Thursday-October 25-2007,13 SHawwal 1428 A.H,Working Day,,2:45:00 PM,Swat,35.2227,72.4258,KPK,Mingora Police Line ,Mobile,High,Open,,Military,None,20,38,28,35,1,NA,1.Saidu Shrif hospital ,21.025,69.845
+71,Tuesday-October 30-2007,18 SHawwal 1428 A.H,Working Day,,11:50:00 AM,Rawalpindi,33.6058,73.0437,Punjab,"Rawalpindi police checkpoint 
+security zone",Police,High,Open,,Military,None,7,8,18,31,1,NA,1.CMH 2.Civil hospital,20.905,69.629
+72,Thursday-November 1-2007,20 SHawwal 1428 A.H,Working Day,,7:10:00 AM,Sargodha,32.0791,72.6718,Punjab,PAF Bus on faisalabad road-Sargodha ,Mobile,High,Open,PAF Bus,Military,None,8,10,27,40,1,10 kg ,"1.PAF Sargodha 
+2.CMH Rwp",20.82,69.476
+73,Friday-November 9-2007,28 SHawwal 1428 A.H,Holiday,Iqbal Day,4:15:00 PM,Peshawar,34.0043,71.5448,KPK,"Peshawar  Federal minister 
+political amir muqam house",Residence,Low,Closed,Political Affairs meeting,Government Official,None,3,4,2,5,1,5 to 6 Kg,1.Hayatabad Medical Complex,19.445,67.001
+74,Saturday-November 24-2007,14 Thw al-Qi`dah 1428 A.H,Working Day,,7:40:00 AM,Rawalpindi,33.6058,73.0437,Punjab,Bus carrying ISI officals parked outside Hamza Camp faizabad ,Mobile,High,Open,Hamza camp,Military,None,17,38,,35,1,NA,"1.Military Hospital 
+2.Rawalpindi hospital ",15.555,59.999
+75,Saturday-November 24-2007,14 Thw al-Qi`dah 1428 A.H,Working Day,,7:50:00 AM,Rawalpindi,33.6058,73.0437,Punjab,GHQ,Military,High,Open,,Military,None,,1,2,5,1,NA,,15.555,59.999
+76,Tuesday-December 4-2007,24 Thw al-Qi`dah 1428 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,Checkpost high-security cantonment area babar road,Military,High,Open,,Military,None,,1,,0,1,NA,NA,14.73,58.514
+77,Sunday-December 9-2007,29 Thw al-Qi`dah 1428 A.H,Holiday,Weekend,11:15:00 AM/12:30 PM,Swat,35.2227,72.4258,KPK,Ningolai Security checkpost,Police,High,Open,,Police,None,10,13,,2,1,10 to 15 kg,NA,11.925,53.465
+78,Monday-December 10-2007,30 Thw al-Qi`dah 1428 A.H,Working Day,,7:24:00 AM/7:30AM,Attock ,33.7645,72.3667,Punjab,Truck carrying school children near Fauji gate Pakistan Aeranautical Complex,Mobile,Low,Open,,Children/Women,None,,0,7,22,1,NA,1.CMH Rwp,12.13,53.834
+79,Thursday-December 13-2007,3 Thw al-Hijjah 1428 A.H,Working Day,,4:50:00 PM,Quetta ,30.2095,67.0182,Baluchistan,military Checkpost ,Military,High,Open,,Military,None,5,12,22,23,2,NA,1.CMH hospital ,4.16,39.488
+80,Saturday-December 15-2007,5 Thw al-Hijjah 1428 A.H,Working Day,,9:25:00 AM,Nowshehra,34.0322,73.0944,KPK,Noshera security check post,Military,High,Open,,Military,None,5,6,11,20,1,NA,1.CMH Nowshera,9.515,49.127
+81,Monday-December 17-2007,7 Thw al-Hijjah 1428 A.H,Working Day,,12:30:00 PM,Kohat,33.5833,71.4333,KPK,kohat cantt-fountain round about-near army public school,Military,High,Open,recruits returning to barracks after morning exercise,Military,None,,12,2,5,1,more than 5Kg,Combine Military hospital,11.345,52.421
+82,Friday-December 21-2007,13 Thw al-Hijjah 1428 A.H,Holiday,Eid-ul-azha,NA,Charsadda ,34.1509,71.7359,KPK,Charsadda Jamiya Masjid ,Religious,Medium,Closed,Masjid,Civilian,Sunni,,60,,200,1,5 to 6 kg,NA,15,59
+83,Sunday-December 23-2007,13 Thw al-Hijjah 1428 A.H,Holiday,Weekend,6:00:00 PM,Swat,35.2227,72.4258,KPK,military convoy hit in mingora,Mobile,High,Open,,Military,None,9,14,,23,1,NA,NA,12.76,54.968
+84,Thursday-December 27-2007,17 Thw al-Hijjah 1428 A.H,Working Day,,5:10:00 PM,Rawalpindi,33.6058,73.0437,Punjab,Rawalpindi Liaquat Bagh Park,Park/Ground,Low,Open,attack on Benazir Bhutto,Government official,None,21,30,48,70,1,NA,Rawalpindi General hospital,10.21,50.378
+85,Monday-January 7-2008,28 Thw al-Hijjah 1428 A.H,Working Day,,11:15:00 AM,Swat,35.2227,72.4258,KPK,infront of frontier house kabal,Military,High,Open,Security forces ,Military,None,,,12,13,1,NA,NA,6.77,44.186
+86,Thursday-January 10-2008,1 MuHarram 1429 A.H,Working Day,,11:40:00 AM,Lahore ,31.5451,74.3407,Punjab,Lahore High court ,Government,High,Open,lawyers protest rally was about to start. All of them were present inside the court. Bomber targeted the police officials outside the court,Police,None,24,26,73,80,1,15 kg,1.Mayo-Ganga ram hospital ,13.89,57.002
+87,Tuesday-January 15-2008,6 MuHarram 1429 A.H,Working Day,,10:30:00 AM,Mohmand agency,32.9746,70.1456,FATA,checkpoint of security forces in Khapakh Kando near Ghalanai,Military,High,Open,Frontier Constabulary,Military,None,1,1,,,1,NA,Ghalani hospital ,5.145,41.261
+88,Thursday-January 17-2008,8 MuHarram 1429 A.H,Working Day,,6:00:00 PM/6:55PM,Peshawar,34.0043,71.5448,KPK,Mirza Qasim baig Imambargah Jangi Mohallah-kohati,Religious,Medium,Closed,Imambargah,Religious,shiite,10,12,,25,1,3 kg explosive and 3kg ball bearings,1.Lady Reading hospital ,12.34,54.212
+89,Friday-February 1-2008,23 MuHarram 1429 A.H,Working Day,,4:30:00 PM,North Waziristan,32.9746,70.1456,FATA,Kajhori checkpost north waziristan,Police,High,Open,Checkpost ,Police,None,5,7,13,15,1,NA,1.CMH bannu 2.MH Bannu,2.475,36.455
+90,Monday-February 4-2008,26 MuHarram 1429 A.H.,Working Day,,7:24:00 AM/7:25AM/7:30 AM,Rawalpindi,33.6058,73.0437,Punjab,Infront of NLC office near GHQ Rwp,Mobile,High,Open,bus carrying students and officials of army medical college-,Military,None,8,10,27,47,1,6-7kg,1.CMH 2.MH 3. DHQ,8.42,47.156
+91,Tuesday-February 5-2008,27 MuHarram 1429 A.H,Working Day,,NA ,Quetta ,30.2095,67.0182,Baluchistan,Quetta Khilji Conlony,Park/Ground,Low,Open,Khilji colony,Civilian,None,,1,,1,1,NA,NA,-2.37,27.734
+92,Saturday-February 9-2008,2 safar 1429 A.H.,Working Day,,NA ,Charsadda ,34.1509,71.7359,KPK,Nakai in charsadda,Residence,Low,Closed,Awami National Party meeting was in progress,Government Official,None,25,27,35,51,1,NA,1.Lady Reading Hospital 2. DHQ charsadda,7.935,46.283
+93,Monday-February 11-2008,4 safar 1429 A.H,Working Day,,12:55:00 PM,North Waziristan,32.9746,70.1456,FATA,Aidak village in mirali-near miranshah,Religious,Low,Open,ANP gathring,Government official,None,6,10,9,13,1,NA,NA,2.245,36.041
+94,Saturday-February 16-2008,9 safar 1429 A.H.,Working Day,,NA,Swat,35.2227,72.4258,KPK,Mingora-army media center on saidu sharif road,Military,High,Closed,army media center and base near Gul Kadda,Military,None,2,3,14,18,1,NA,District headquarters hospital saidu sharif,12.725,54.905
+95,Saturday-February 16-2008,9 safar 1429 A.H.,Working Day,,evening,Kuram Agency ,35.2227,72.4258,FATA,PPP election office in Eidgah market of Parachinar bazar,Government,High,Closed,,Government official,None,38,47,109,110,1,NA,Agency headquarter hospital,12.725,54.905
+96,Monday-February 25-2008,18 safar 1429 A.H,Working Day,,2:45:00 PM,Rawalpindi,33.6058,73.0437,Punjab,Rawalpindi-R.A bazar mall road Sadar-nadira suift center,Mobile,High,Closed,near Surgeon-gernal car on signal,Military,None,,8,20,30,1,4-5kg,1.CMH 2.MH 3.Contonment hospital 4. rwp general hospital 5. DHQ hospital,14.47,58.046
+97,Friday-February 29-2008,22 safar 1429 A.H.,Working Day,,8:00 PM,Swat,32.935,70.6688,KPK,Swat Mingora DSP Funeral,Park/Ground,Low,Open,,Police,None,38,45,40,100,1,NA,1.Saidu Shrif hospital ,19.85,67.73
+98,Saturday-March 1-2008,23 safar 1429 A.H.,Working Day,,NA,Bajaur Agency,34.8718,71.5249,FATA,Khar-jardar area,Mobile,High,Open,,Military,None,,2,,23,1,NA,NA,19.375,66.875
+99,Sunday-March 2-2008,24 safar 1429 A.H.,Holiday,Weekend,11:00:00 AM,Dara Adam Khel,33.6854,71.5131,KPK,Dara adamkhel Jirga ,Park/Ground,Low,Open,peace Jirga ,Anti-Militants,None,40,43,50,60,1,NA,1.Lady Reading Hospital 2.Hayatabad medical Complex,19.455,67.019
+100,Tuesday-March 4-2008,26 safar 1429 A.H,Working Day,,1:05PM,Lahore ,31.5451,74.3407,Punjab,Navy war college mall road lahore,Military,High,Closed,Navy college ,Military,None,4,8,15,24,2,NA,1.CMH 2.Service hospital,20.655,69.179
+101,Tuesday-March 11-2008,3 Raby` al-awal 1429 A.H,Working Day,,9:15 AM to 9:20:00 AM,Lahore ,31.5451,74.3407,Punjab,FIA building Temple road near The Mall-near regal chowk,Government,High,Closed,,Government Official,None,26,31,175,200,1,50kg,1.Ganga Ram Hospita 2.Mayo Hospital ,21.295,70.331
+102,Tuesday-March 11-2008,3 Raby` al-awal 1429 A.H,Working Day,,9:20:00 AM,Lahore ,31.5451,74.3407,Punjab,Bungalow no 83/F Model Town-an advertising agency office,Residence,Low,Closed,,Civilian,None,3,6,,12,1,30kg ,Ganga Ram hospital ,21.295,70.331
+103,Monday-March 17-2008,9 Raby` al-awal 1429 A.H.,Working Day,,NA,Swat,35.2227,72.4258,KPK,Mingora police Lines ,Police,High,Closed,,Police,None,2,3,5,7,1,NA,Saidu Sharif hospital,22.5,72.5
+104,Thursday-March 20-2008,12 Raby` al-awal 1429 A.H.,Holiday,Eid Milad un-Nabi,3:00 PM,South Waziristan,32.3202,69.8597,FATA,Army Camp at Zari noor-Wana,Military,High,Closed,,Military,None,,5,9,11,1,NA,Military Hospital ,18.655,65.579
+105,Thursday-May 1-2008,25 Raby` al-THaany 1429 A.H,Holiday,Labour Day,Thursday Morning,Khyber Agency,34.0211,71.2874,FATA,Takia-Bar Qambarkhel Mosque,Religious,Medium,Closed,,Religious,Sunni,,2,17,30,1,NA,NA,28.985,84.173
+106,Tuesday-May 6-2008,1 Jumaada al-awal 1429 A.H,Working Day,,8:40:00 AM/9:30:00 AM,Bannu,32.935,70.6688,KPK,Bannu police  check post,Police,High,Open,,Police,None,3,7,10,15,1,NA,1.DHQ 2.CMH,28.62,83.516
+107,Friday-May 9-2008,4 Jumaada al-awal 1429 A.H,Working Day,,Friday Night,Swat,35.2227,72.4258,KPK,Mingora police Station ,Police,High,Closed,,Police,None,,1,3,4,1,NA,1.district headquarters hospital saidu sharif ,23.985,75.173
+108,Sunday-May 18-2008,13 Jumaada al-awal 1429 A.H.,Holiday,Weekend,8:00:00 PM,Mardan,34.1982,72.0444,KPK,Military run bakery near a punjab regiment center in Mardan cantt,Military,High,Closed,,Military,None,11,13,23,25,1,NA,1.CMH 2.District Headqurtar Hospital ,29.61,85.298
+109,Monday-June 2-2008,28 Jumaada al-awal 1429 A.H.,Working Day,,1:00:00 PM/1:05PM,Islamabad,33.718,73.0718,Capital,Islamabad Danish Embassy,Foreign,High,Closed,,Foreigner,Jews,,8,25,30,1,50kg,1.PIMS 2.Federal Government Service Hospital,26.5,79.7
+110,Sunday-July 6-2008,3 Rajab 1429 A.H.,Holiday,Weekend,7:50:00/7:45:00 PM,Islamabad,33.718,73.0718,Capital,Melody market near lal masjid,Market,Low,Open,,Police,None,15,20,20,47,1,5 kg,1.PIMS 2.Poly Clinic 3.Federal Government Service Hospital,26.86,80.348
+111,Sunday-July 13-2008,10 Rajab 1429 A.H,Holiday,Weekend,NA,D.I Khan,31.8238,70.9095,KPK,Shiite gathering -Near kotli imam Hussain,Religious,Medium,Closed,,Religious,Shiite,,1,3,4,1,NA,NA,31.075,87.935
+112,Wednesday-August 13-2008,12 SHa`baan 1429 A.H,Working Day,,11:35:00 PM,Lahore ,31.5451,74.3407,Punjab,neaar Iqbal Town police Station Lahore at dubai CHOWK SIGNAL,Police,High,Open,,Police,None,8,9,20,35,1,NA,1.Sheikh Zahid Hospital,25.835,78.503
+113,Tuesday-August 19-2008,18 SHa`baan 1429 A.H.,Working Day,,1:30:00 PM,D.I Khan,31.8238,70.9095,KPK,Distric headquarter hospital,Hospital,Low,Closed,during the shiite protest against the death of shiite govt official,Civilian,Shiite,30,32,33,55,1,NA,1.Combined Military Hospital ,31.495,88.691
+114,Thursday-August 21-2008,20 SHa`baan 1429 A.H,Working Day,,2:37:00 PM,Rawalpindi,33.6058,73.0437,Punjab,Wah Cant Pakistn Ordinance Factories ,Military,High,Closed,,Government Official,None,70,100,67,200,2,NA,pof hospital,28.89,84.002
+115,Saturday-August 23-2008,22 SHa`baan 1429 A.H,Working Day,,7:45:00 AM,Swat,35.2227,72.4258,KPK,Charbagh checkpost,Police,High,Open,,Police,None,7,15,,20,1,100Kg,1.Saidu sharif hospital ,25.69,78.242
+116,Friday-August 29-2008,28 SHa`baan 1429 A.H,Working Day,,7:00:00 AM,Kohat,33.5833,71.4333,KPK,army base camp/emergency center near Kohat tunnel,Military,High,Closed,,Military,None,2,5,25,39,1,NA,1.CMH Kohat,27.705,81.869
+117,Saturday-September 6-2008,6 RamaDHaan 1429 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,Zangali Checkpost on kohat road,Police,High,Open,,Police,None,30,35,70,90,1,150Kg,Lady Reading Hospital-Khyber teaching-Hayatabad complex,23.44,74.192
+118,Tuesday-September 16-2008,16 RamaDHaan 1429 A.H,Working Day,,Half hour after aftar,Swat,35.2227,72.4258,KPK,Kabal check post ,Police,High,Open,,Police,None,2,10,,25,1,NA,NA,25.95,78.71
+119,Saturday-September 20-2008,20 RamaDHaan 1429 A.H,Working Day,,NA,North waziristan,32.9746,70.1456,KPK,military convoy on Miranshah road near Norak,Mobile,High,Open,,Military,None,7,17,5,20,1,NA,1.CMH Bannu hospital,22.06,71.708
+120,Saturday-September 20-2008,20 RamaDHaan 1429 A.H,Working Day,,8:05:00 PM,Islamabad,33.718,73.0718,Capital,Islamabad Marriott Hotal ,Hotel,Medium,Closed,,Foreigner,None,40,60,200,300,1,1000 Kg,1.Poly Clinic  2. PIMS,24.41,75.938
+121,Monday-September 22-2008,22 RamaDHaan 1429 A.H,Working Day,,NA,Swat,35.2227,72.4258,KPK,military security checkpost in Madian Town swat,Military,High,Open,,Military,None,9,13,2,3,1,NA,NA,21.005,69.809
+122,Wednesday-September 24-2008,24 RamaDHaan 1429 A.H,Working Day,,NA,Quetta,30.2095,67.0182,Baluchistan,Quetta cantt military Check post ,Military,High,Open,,Military,None,1,14,22,25,1, 8 Kg,1.CMH Hospital 2.Civil Hospital,23.225,73.805
+123,Friday-October 3-2008,3 SHawwal 1429 A.H,Holiday,Eid-ul-Fitar,4:00:00 PM,Peshawar,34.0043,71.5448,KPK,wali bagh charsadda,Residence,Medium,Closed,,Government Official,None,4,5,,18,1,NA,1.District Hospital Charsadda ,29.445,85.001
+124,Monday-October 6-2008,6 SHawwal 1429 A.H,Working Day,,4:45:00 PM,Bhakkar ,31.6216,71.065,Punjab,Bhakkar Rasheed Noranni MNA house,Residence,Medium,Closed,,Government Official,None,22,26,60,100,1,NA,1.Nishtar Hospital Multan,29.025,84.245
+125,Thursday-October 9-2008,9 SHawwal 1429 A.H,Working Day,,12:45:00 PM,Islamabad,33.718,73.0718,Capital,Islamabad Police line-anti terrorist squad building,Police,High,Closed,lawmakers gathered for a secret security briefing,Police,None,,,6,12,1,60Kg,1. PIMS 2.Federal Government Services,24.17,75.506
+126,Thursday-October 9-2008,9 SHawwal 1429 A.H,Working Day,,12:55:00 PM,Khyber Agency,34.0211,71.2874,FATA,near michni post in landi kotal,Mobile,High,Open,,Foreigner,Christian,,0,,0,1,NA,,24.47,76.046
+127,Friday-October 10-2008,10 SHawwal 1429 A.H,Working Day,,NA,Orakzai Agency,32.9746,70.1456,FATA,anti-taliban Jirga-Khadezai area in upper Orakzai Agency,Park/Ground,Low,Open,,Anti-Militants,Sunni,40,85,90,200,1,8 ft deep crater,1.Kohat Dvisional Headquarters Hospital  2.Gahluj hospital 3.Hospitals in Hangu and Kohat ,20.58,69.044
+128,Thursday-October 16-2008,16 SHawwal 1429 A.H,Working Day,,NA,Swat,35.2227,72.4258,KPK,Mingora police Station ,Police,High,Closed,,Police,None,,4,,27,1,NA,NA,19.835,67.703
+129,Sunday-October 26-2008,26 SHawwal 1429 A.H,Holiday,Weekend,9:45:00 PM,Mohmand Agency,32.9746,70.1456,FATA,Mohmad Agency-naqi Checkpost ,Military,High,Open,,Military,None,11,10,,5,1,NA,1.Ghalaanai Hospital ,15.35,59.63
+130,Wednesday-October 29-2008,29 SHawwal 1429 A.H.,Working Day,,2:15:00 PM,Bannu,32.9861,70.6042,KPK,Militay checkpost cantoment area bannu,Military,High,Open,,Military,None,,,,14,1,NA,1.Combined Military Hospital ,22.09,71.762
+131,Friday-October 31-2008,2 Thw al-Qi`dah 1429 A.H,Working Day,,1:30:00 PM,Mardan,34.1982,72.0444,KPK,outside the office of Mardan DIG in malakand mardan road,Police,High,Closed,,Police,None,9,10,21,25,1,NA,district headquarter hospital,20.895,69.611
+132,Sunday-November 2-2008,5 Thw al-Qi`dah 1429 A.H,Holiday,Weekend,9:00 AM,South Waziristan,32.3202,69.8597,FATA,Zalai FC checkpost wana,Military,High,Open,,Military,None,,8,,8,1,,,21.735,71.123
+133,Tuesday-November 4-2008,6 Thw al-Qi`dah 1429 A.H,Working Day,,,Hangu,33.5351,71.0713,KPK,Doabba-checkpost near surpul on hangu tal road,Police,High,Open,,Police,None,,7,,4,1,40 kg,CMH Hangu,21.11,69.998
+134,Thursday-November 6-2008,8 Thw al-Qi`dah 1429 A.H,Working Day,,NA,Swat,35.2227,72.4258,KPK,Swat Police check post ,Police,High,Open,,Police,None,,2,,10,1,NA,Syedo Shrif Hospital ,16.485,61.673
+135,Thursday-November 6-2008,8 Thw al-Qi`dah 1429 A.H,Working Day,,NA,Bajaur Agency,34.8718,71.5249,FATA,Salarzai Jirga  in batmali area-Bajaur,Park/Ground,Low,Open,tribes were discussing formation of lashkar,Anti-Militants,Sunni,16,23,31,45,1,NA,NA,16.705,62.069
+136,Tuesday-November 11-2008,13 Thw al-Qi`dah 1429 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,Qayyum Stadium ,Park/Ground,Low,Open,Sport Stadium,Government Official,None,3,4,13,20,1,7 or 8Kg,1.Lady Reading Hospital 2.Combined Military Hospital ,19.17,66.506
+137,Wednesday-November 12-2008,14 Thw al-Qi`dah 1429 A.H,Working Day,,10:00:00 AM,Charsadda,34.1509,71.7359,KPK,attack on security forces camp in Subhan Khaur school-shabqadar area near muhamand agency boder,Military,High,Closed,,Military,None,,7,10,12,1,NA,NA,19.165,66.497
+138,Monday-November 17-2008,19 Thw al-Qi`dah 1429 A.H.,Working Day,,11:15:00 AM,Swat,35.2227,72.4258,KPK,Security checkpost in gashgur area of  Khawazakhela,Military,High,Open,,Military,None,,10,,8,1,NA,NA,14.075,57.335
+139,Thursday-November 20-2008,22 Thw al-Qi`dah 1429 A.H.,Working Day,,during maghrib prayer,Bajaur Agency,34.8718,71.5249,FATA,Mosque in Badaan area of mamund,Religious,Medium,Closed,maghrib prayer,Religious,Sunni,,9,,,1,,District hospital Bajur,14.17,57.506
+140,Friday-November 28-2008,30 Thw al-Qi`dah 1429 A.H.,Working Day,,NA,Buner,34.3943,72.6151,KPK,near Tarezi Chowk on the main Bannu-Kohat road.,Mobile,High,Open,,Police,,,9,,16,1,NA,NA,16.61,61.898
+141,Monday-December 1-2008,3 Thw al-Hijjah 1429 A.H,Working Day,,Monday Morning,Swat,35.2227,72.4258,KPK,sangota checkpost in mingora,Military,High,Open,,Military,None,,10,,50,1,NA,NA,15.45,59.81
+142,Wednesday-December 3-2008,5 Thw al-Hijjah 1429 A.H,Working Day,,NA,Charsadda,34.1509,71.7359,KPK, Army Convoy passing from shabqadar,Mobile,High,Open,Army convoy ,Military,None,5,6,8,10,1,NA,NA,15.815,60.467
+143,Friday-December 5-2008,8 Thw al-Hijjah 1429 A.H,Working Day,,12:30:00pm,Orakzai Agency,32.9746,70.1456,KPK,bazar of Kalaia area of lower Orakzai angency,Market,Low,Open,,Civilian,None,6,10,8,15,1,NA,Kalidya Hospital ,12.465,54.437
+144,Tuesday-December 9-2008,11 Thw al-Hijjah 1429 A.H,Working Day,,NA,Buner,34.3943,72.6151,KPK,in Dagar-an area of Buner ,Park/Ground,Low,Open,,Government Official,None,,1,,4,1,NA,NA,14.39,57.902
+145,Sunday-December 28-2008,,Holiday,Weekend,10:30:00 AM,Buner,34.3943,72.6151,KPK,Buner Poling station-Infront of govt high school Shalbandi,Government,High,Open,,Government official,None,34,37,,16,,,,11.41,52.538
+146,Sunday-January 4-2009,7 MuHarram 1430 A.H,Holiday,Weekend,7:30:00 PM,D.I Khan,31.8238,70.9095,KPK,multan road in Deara Ismail Khan,Mobile,High,Open,muharram ul haram rally,Police,,7,10,21,25,1, 10 kg ,Poly clinic multan ,11.445,52.601
+147,Sunday-January 4-2009,7 MuHarram 1430 A.H,Holiday,Weekend,,Bannu,32.9861,70.6042,KPK,near a check-post in Officers’ Colony,Police,High,open,,Police,,,1,,2,1,,,8.275,46.895
+148,Friday-January 23-2009,26 MuHarram 1430 A.H. ,Working Day,,,Swat,35.3833,72.1833,KPK,near Mingora town,Military,High,open,,Military,,,2,11,25,1,,,12.95,55.31
+149,Thursday-February 5-2009,10 safar 1430 A.H.,Working Day,,6.35 pm,D.G Khan ,30.05,70.6333,Punjab,Outside Jhar ali Imambargah-in muslim town area ,Religious,Medium,Open,,Religious,Shiite,30,32,48,55,1,NA,Local Hospital In DG Khan/Nishtar Hospital,15.105,59.189
+150,Thursday-February 5-2009,10 safar 1430 A.H.,Working Day,,,Swat,35.3833,72.1833,KPK,near a Police station in the Mingora town of Swat District,Police,High,open,,Police,,,12,,,,,,9.435,48.983
+151,Friday-February 6-2009,11 safar 1430 A.H,Working Day,,8.15 am,Khyber Agency,34.0211,71.2874,FATA,Peshawar-Torkham Highway near Teddi Bazar in Jamrood ,Mobile,Low,Open,struck the trailer when signalled to stop,Foreigner,Christian,,0,,7,1,NA,Jamrud Civil Hospital,10.32,50.576
+152,Monday-February 9-2009,14 safar 1430 A.H,Working Day,,NA,Bannu,32.9861,70.6042,KPK,Police checkpost on Baran Bridge,Police,High,Open,NA,Police,None,,5,17,18,1,NA,DHQ Hospital Bannu  / Peshawar Hospital,14.585,58.253
+153,Friday-February 20-2009,25 safar 1430 A.H,Working Day,,,D.I Khan ,31.8238,70.9095,KPK,funeral procession on  Dera Bannu road-near shobra hotel,Park/Ground,Low,Open,"Funeral Procession of
+Imambargah Caretaker",Civilian,Shiite,30,36,150,200,1,NA,"1. DHQ D.I.Khan
+2. Nishtar Hospital
+3. Lady Reading Pesh",15.555,59.999
+154,Saturday-February 21-2009,26 safar 1430 A.H,Working Day,,,Bannu,32.9861,70.6042,KPK,Lakki town,Police,High,Open,NA,Police,None,,2,,,,,,14.42,57.956
+155,Monday-February 23-2009,28 safar 1430 A.H.,Working Day,,NA,Bannu,32.9861,70.6042,KPK,Bannu miranshah road-House of DSP,Residence,Medium,Closed,,Police,None,,1,,2,,NA,NA,15.7,60.26
+156,Monday-March 2-2009,5 Raby` al-awal 1430 A.H,Working Day,,NA,Pishin,30.5833,67,Baluchistan,Killi Karbala village in Pishin district,Educational,Low,Closed,,Government Official,Sunni,5,6,5,12,1,NA,Civil hospital Quetta,18.76,65.768
+157,Wednesday-March 11-2009,14 Raby` al-awal 1430 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,sarki gate area in Nimak Mandi area-Peshawar,Market,Low,Open,"Inauguration  of an 
+event by Sr Minister",Government Official,None,4,5,,6,1,NA,Lady Reading Hospital ,18.375,65.075
+158,Monday-March 16-2009,19 Raby` al-awal 1430 A.H,Working Day,,,Rawalpindi,33.6058,73.0437,Punjab,Rawalpindi cantt-Pirwadhi bus stand,Transport,Low,Open,,Civilian,None,12,15,16,18,1,10 kg ,"DHQ Hospital RWP
+2. Benazir Hospital RWP",20.875,69.575
+159,Monday-March 23-2009,26 Raby` al-awal 1430 A.H,Holiday,Pakistan Day,NA,Islamabad,33.718,73.0718,Capital,sitara maket-special branch police gate,Police,High,Open,,Police,None,,2,,8,1,NA,NA,18.575,65.435
+160,Thursday-March 26-2009,29 Raby` al-awal 1430 A.H,Working Day,,8:30:00 AM,Tank,32.226,70.3761,KPK,road side restaurant opposite to military base in Jandola,Market,Low,Open,members of peace committe -members of Turkestan group,Anti-Militants,Sunni,7,15,,25,1,NA,Civil Hospital Tank,14.305,57.749
+161,Friday-March 27-2009,30 Raby` al-awal 1430 A.H,Working Day,,NA,Khyber Agency,34.0211,71.2874,FATA,Mosque in Jamrood Tehsil on peshawar-turkham highway,Religious,Medium,Closed,,Religious,Sunni,70,76,100,175,1,NA,Peshwar Hospitals,18.595,65.471
+162,Monday-March 30-2009,3 Raby` al-THaany 1430 A.H,Working Day,,NA,North waziristan,32.9746,70.1456,FATA,Mirzail checkpost-Miranshah,Mobile,High,Open,security forces convoy was passing from checkpost,Military,None,,4,,9,1,NA,NA,14.415,57.947
+163,Saturday-April 4-2009,8 Raby` al-THaany 1430 A.H,Working Day,,7.35 PM/7:37 PM,Islamabad,33.718,73.0718,Capital,"Margala Road Check Post
+Islamabad",Military,High,Open,NA,Military,None,,8,4,7,1,8Kg,"PIMS
+Polyclinic ",20.17,68.306
+164,Saturday-April 4-2009,8 Raby` al-THaany 1430 A.H,Working Day,,,North waziristan,32.9746,70.1456,FATA,mirnshah security checkpost,Mobile,High,Open,military convoy was passing from checkpost,Military,None,,8,,39,1,NA,NA,15.57,60.026
+165,Sunday-April 5-2009,9 Raby` al-THaany 1430 A.H,Holiday,Weekend,12:30:00 PM,Chakwal ,32.9303,72.8556,Punjab,Imambargah in Chakwal ,Religious,Medium,Closed,Shia Religious Gathering ,Religious,Shiite,22,27,40,60,1,NA,NA,20.555,68.999
+166,Wednesday-April 15-2009,19 Raby` al-THaany 1430 A.H,Working Day,,Evening,Charsadda,34.1509,71.7359,KPK,"Harichand Police Post-
+Charsadda",Police,High,Open,NA,Police,None,16,18,5,10,1,100kg,Charsadda DHQ/Tangi Hospital/JamalAbad hospital/Peshawar Hospital,,
+167,Saturday-April 18-2009,22 Raby` al-THaany 1430 A.H,Working Day,,3pm/4.15 pm,Hangu,33.5351,71.0713,KPK,Check Post close to police station in Doaba Area,Police,High,Open,NA,Police,None,21,27,26,65,1,100,Civil Hospital Hangu/ CMH Thall,21.175,70.115
+168,Tuesday-May 5-2009,10 Jumaada al-awal 1430 A.H.,Working Day,,MORNING,Peshawar,34.0043,71.5448,KPK,bara qadeem Check post-on peshawar-bara road-12km west of peshawar cantt,Military,High,Open,NA,Military,None,7,11,25,48,1,85,Khyber Teaching Hospital / Hayatabad Medical Complex,18.615,65.507
+169,Monday-May 11-2009,16 Jumaada al-awal 1430 A.H,Working Day,,9:30 AM,Dara Adam Khel,33.6854,71.5131,KPK,check post in the Outstrikes of Darra Adamkhel-in area of Sabeena police station,Police,High,Open,NA,Police,None,10,11,20,27,1,NA,"1. Lady Reading Hospital Pesh
+2. CMH Peshwar",25.66,78.188
+170,Thursday-May 21-2009,26 Jumaada al-awal 1430 A.H,Working Day,,Late Night/Evening,Tank,32.226,70.3761,KPK,FC fort in Jandola,Military,High,Open,FC camp,Military,None,6,9,25,36,1,NA,CMH Dera/ Tank Hospitals,21.54,70.772
+171,Wednesday-May 27-2009,3 Jumaada al-THaany 1430 A.H,Working Day,,10.10 AM/10:30 AM,Lahore,31.5451,74.3407,Punjab,hit police checkpost outside Rescue 15 Office and country's premier intelligence agency,Police,High,Open,NA,Police,None,26,27,320,370,1,125 kg,Ganga Ram hospital / Meo/ Services Hospital,33.275,91.895
+172,Thursday-May 28-2009,4 Jumaada al-THaany 1430 A.H,Working Day,,5:40pm,Peshawar,34.0043,71.5448,KPK,"Kohat Road-Sira Khora-
+Police  Check Post ",Police,High,Open,NA,Police,None,3,5,3,9,1,5kg,"Lady Reading Hospital 
+Peshawar ",34.19,93.542
+173,Thursday-May 28-2009,4 Jumaada al-THaany 1430 A.H,Working Day,,,D.I Khan ,31.8238,70.9095,KPK,checkpost on circular road,Police,High,Open,NA,Police,None,3,5,8,12,1,160,NA,29.085,84.353
+174,Friday-June 5-2009,12 Jumaada al-THaany 1430 A.H,Working Day,,Jummah prayer time,Upper Dir,35.1977,71.8749,FATA,Masjid in Hayagai Sharqai village,Religious,Medium,Closed,NA,Religious,Sunni,,40,50,70,1,NA,NA,23.36,74.048
+175,Saturday-June 6-2009,13 Jumaada al-THaany 1430 A.H,Working Day,,8:35 PM,Islamabad,33.718,73.0718,Capital,Rescue 15 building in Islamabad ,Police,High,Closed,Senior Police Officials meeting,Police,None,2,2,4,5,1,NA,PIMS,26.235,79.223
+176,Tuesday-June 9-2009,16 Jumaada al-THaany 1430 A.H,Working Day,,10.30 pm,Peshawar,34.0043,71.5448,KPK,"Pearl Continental Hotel
+Peshawar",Hotel,Medium,Closed,NA,Foreigner,None,11,15,50,80,1,500 Kg,"Lady Reading Hospital 
+Peshawar ",29.325,84.785
+177,Thursday-June 11-2009,18 Jumaada al-THaany 1430 A.H,Working Day,,Thursday night ,Peshawar,34.0043,71.5448,KPK,ring road Latifabad-Peshawar ,Police,High,Open,NA,Police,None,1,2,8,15,1,NA,LRH ,30.935,87.683
+178,Friday-June 12-2009,19 Jumaada al-THaany 1430 A.H,Working Day,,After Friday prayers,Lahore,31.5451,74.3407,Punjab,Jamia Naeemia madrassa-Garhai Shahu area,Religious,Medium,Closed,,Religious,Sunni,5,7,5,12,1,24Kg,Mayo-Sir Ganga Ram Servuces-Jinnah Hospital,35.985,96.773
+179,Friday-June 12-2009,19 Jumaada al-THaany 1430 A.H,Working Day,,2.40 Pm,Nowshehra,34.0322,73.0944,KPK,military run Mosque in Nowshera Cantt-on supply depot morr,Religious,Medium,Closed,,Religious,Sunni,4,7,63,105,1,NA,contonment hospital-DHQ Hospital-peshawar CMH,29.2,84.56
+180,Monday-June 22-2009,29 Jumaada al-THaany 1430 A.H. ,Working Day,,,Swat,35.3833,72.1833,KPK,Thakot Police check-post in Battagram District.,Police,High,Open,NA,Police,None,,2,,7,,,,27.665,81.797
+181,Friday-June 26-2009,3 Rajab 1430 A.H,Working Day,,6:00:00 AM/6:30:00 AM,Muzaffarabad,34.3597,73.4711,AJK,near non commisioned officers place-Muzaffarabad,Mobile,High,Open,NA,Military,None,,2,3,4,1,NA,CMH Muzzafarabad,33.255,91.859
+182,Tuesday-June 30-2009,7 Rajab 1430 A.H.,Working Day,,NA,Khyber Agency,34.0211,71.2874,FATA,Quetta-Khi RCD highway-town of Torkham ,Foreign,High,Open,blew himself up while being searched at the pak-afghna checkpost,foreigner,Sunni,1,4,10,11,1,NA,NA,31.26,88.268
+183,Wednesday-July 1-2009,8 Rajab 1430 A.H.,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,Mashokhel Mera Area-Kohat Road,Mobile,High,Open,,Unknown,None,,1,,,1,NA,NA,30.385,86.693
+184,Thursday-July 2-2009,9 Rajab 1430 A.H.,Working Day,,4:30pm,Rawalpindi,33.6058,73.0437,Punjab,"KRL Bas at Chur Chowk
+on peshawar road-rwp cantt",Mobile,High,Open,NA,Government official,None,,1,25,40,1,10Kg,NA,27.29,81.122
+185,Wednesday-July 8-2009,15 Rajab 1430 A.H,Working Day,,3:00am,Peshawar,34.0043,71.5448,KPK,nasir bagh road choongi bazar near police colony,Market,Low,Open,NA,Police,None,,1,2,5,1,20 Kg,NA,34.825,94.685
+186,Tuesday-July 28-2009,6 SHa`baan 1430 A.H,Working Day,,NA,North Waziristan,32.9746,70.1456,KPK,Dirdony post on ghulam khan road-Near Miranshah,Police,High,Open,NA,Police,None,,2,3,5,1,NA,NA,27.485,81.473
+187,Thursday-August 13-2009,22 SHa`baan 1430 A.H,Working Day,,NA,South Waziristan,32.3202,69.8597,FATA,wana bazar,Mobile,Low,Open,leader of Nawaz group-a group against taliban,Anti-Militants,Sunni,4,5,,,1,NA,NA,26.925,80.465
+188,Saturday-August 15-2009,24 SHa`baan 1430 A.H,Working Day,,10:00 AM,Swat,35.2227,72.4258,KPK,Check post in Khawazakhela- Char Bagh road near-waliabad village,Police,High,Open,NA,Police,None,3,5,,4,1,NA,Saidu Sharif hospital,32.845,91.121
+189,Sunday-August 16-2009,25 SHa`baan 1430 A.H,Holiday,Weekend,NA,swat,35.2227,72.4258,KPK,security forces check point,Police,High,Open,NA,Police,None,,1,,3,1,NA,NA,29.985,85.973
+190,Tuesday-August 18-2009,27 SHa`baan 1430 A.H.,Working Day,,7:00 PM,North Waziristan,32.9746,70.1456,KPK,Esha check post on bannu-miranshah road,Military,High,Open,NA,Military,None,3,7,,3,1,NA,NA,24.65,76.37
+191,Friday-August 21-2009,30 SHa`baan 1430 A.H,Working Day,,NA,Kohat,33.5833,71.4333,KPK,BB Pakdaman Street,Civilian,,Open,NA,Civilian,None,,0,,,1,NA,NA,29.035,84.263
+192,Saturday-August 22-2009,1 RamaDHaan 1430 A.H. ,Working Day,,5:00 PM,Swat ,35.2227,72.4258,KPK,kanju area of Kabal tehsil,Residence,Low,Closed, police raid in the area ,Police,None,2,3,2,8,1,NA,NA,26.025,78.845
+193,Sunday-August 23-2009,2 RamaDHaan 1430 A.H. ,Holiday,Weekend,,Peshawar,34.0043,71.5448,KPK,Momin Town,Residence,Low,open,Fateh Khawani of Haji Mobin Afridi,Anti-Militants,Sunni,,3,,15,1,12Kg,Lady Reading Hospital,29.92,85.856
+194,Thursday-August 27-2009,6 RamaDHaan 1430 A.H,Working Day,,aftar time,Khyber Agency,34.0211,71.2874,FATA,security post near Torkham border,Military,High,Open,NA,Military,None,20,22,10,27,1,NA,Landi Kotal Hospital,30.08,86.144
+195,Sunday-August 30-2009,9 RamaDHaan 1430 A.H,Holiday,Weekend,NA,Swat,35.2227,72.4258,KPK,police training center in Mingora,Police,High,Closed,NA,Police,None,16,18,4,14,1,12 Kg,Saidu Sharif hospital,29.155,84.479
+196,Saturday-September 12-2009,22 RamaDHaan 1430 A.H,Working Day,,5 min befor aftar,Hangu,33.5351,71.0713,KPK,Doaba police station,Police,High,Closed,NA,Police,None,,,2,4,1,NA,NA,26.635,79.943
+197,Sunday-September 13-2009,23 RamaDHaan 1430 A.H,Holiday,Weekend,,Malakand ,34.503,71.9046,KPK,checkpost in Thana area-near batkhela,Military,High,Open,,Military,None,,1,3,5,2,NA,NA,28.31,82.958
+198,Friday-September 18-2009,28 RamaDHaan 1430 A.H,Working Day,,10:00 AM,Kohat,33.5833,71.4333,KPK,Kacha pakha bazar-in Astarzai union council area,Market,Low,Open,NA,Civilian,None,30,37,50,60,1,150 kg ,NA,29.19,84.542
+199,Saturday-September 19-2009,29 RamaDHaan 1430 A.H,Working Day,,Saturday Evening,Dara Adam Khel,33.6854,71.5131,KPK,"Security Check
+Post in zorkalay area",Police,High,Open,NA,Police,None,,2,,1,1,NA,NA,29.865,85.757
+200,Monday-September 21-2009,2 SHawwal 1430 A.H. ,Working Day,,After Midnight,Totalai,34.2,72.5,KPK,Tatalai District,Educational,Low,Closed,,Government Official,None,,0,,,1,NA,NA,26.855,80.339
+201,Saturday-September 26-2009,7 SHawwal 1430 A.H,Working Day,,7.00 am,Bannu,32.9861,70.6042,KPK,outside Police Station in mundan area-Bannu,Police,High,Open,NA,Police,None,7,10,50,65,1,180Kg,N/A,26.375,79.475
+202,Saturday-September 26-2009,7 SHawwal 1430 A.H,Working Day,,11.35 am,Peshawar,34.0043,71.5448,KPK,"Fakhar e Alam Road-
+Saddar-infront of Askari bank",Bank,Low,Open,NA,Civilian,None,10,14,50,120,1,100 Kg,"1. Lady Reading Hospital Pesh
+2. CMH Peshwar",31.075,87.935
+203,Monday-September 28-2009,9 SHawwal 1430 A.H,Working Day,,Monday Morning,bannu,32.935,70.6688,KPK,Bakakhel,Mobile,Low,Open,molvi abdul hakeem as goin to attend jirga-anti-talibanic cleric,Anti-Militants,Sunni,4,5,,,1,NA,NA,24.33,75.794
+204,Monday-October 5-2009,16 SHawwal 1430 A.H,Working Day,,12.15 pm,Islamabad,33.718,73.0718,Capital,WFP office in islamabad F-8/3,Foreigner,High,Closed,NA,foreigner,Christian,,5,3,8,1,8Kg,NA,24.935,76.883
+205,Friday-October 9-2009,20 SHawwal 1430 A.H,Working Day,,12.15 PM,Peshawar,34.0043,71.5448,KPK,Khayber Bazar-Peshawar,Market,Low,Open,NA,Civilian,None,48,50,148,187,1,100Kg,"Lady Reading Hospital 
+Peshawar ",25.75,78.35
+206,Monday-October 12-2009,23 SHawwal 1430 A.H,Working Day,,1:00 PM,Shangla ,34.8015,72.757,KPK,near police station in Alpuri area of shangla District,Mobile,High,Open,military convoy,Military,None,,41,45,50,1,NA,Alpuri Hospital ,22.04,71.672
+207,Thursday-October 15-2009,26 SHawwal 1430 A.H,Working Day,,8:00am,Kohat,33.5833,71.4333,KPK,Kohat Police Station ,Police,High,Closed,NA,Police,None,11,12,20,24,1,100 Kg,Kohat Hospital ,23.25,73.85
+208,Thursday-October 15-2009,26 SHawwal 1430 A.H,Working Day,,NA,Lahore,31.5451,74.3407,Punjab,FIA Headquarter-Manawan Police training school-elite training school,Police,High,Closed,N/A,Police,None,,18,,50,N/A,NA,N/A,25.22,77.396
+209,Friday-October 16-2009,27 SHawwal 1430 A.H,Working Day,,2:45:00 PM,Peshawar,34.0043,71.5448,KPK,crimes investigation agency (CIA) in Swati gate-near peshawar cantt,Military,High,Closed,NA,Military,None,14,15,15,24,1,70 kg ,"Lady Reading Hospital 
+Peshawar ",23.265,73.877
+210,Tuesday-October 20-2009,1 Thw al-Qi`dah 1430 A.H,Working Day,,2:10:00 PM,Islamabad,33.718,73.0718,Capital,"Islamic International University
+Islamabad ",Educational,Low,Closed,NA,Civilian,None,5,6,29,40,2,16 Kg,NA,21.895,71.411
+211,Friday-October 23-2009,4 Thw al-Qi`dah 1430 A.H,Working Day,,7.10 am,Attock ,33.7645,72.3667,Punjab,"Kamra chowk-Aeronautical Complex
+Security Check Post",Military,High,Open,NA,Military,None,8,9,13,17,1,NA,Govt Hospital Kamra,20.865,69.557
+212,Saturday-October 24-2009,5 Thw al-Qi`dah 1430 A.H,Working Day,,late night,Chakwal ,32.9303,72.8556,Punjab,checkpost between kalarkahar and lilla interchange-lahore to isb motorway-,Police,High,Open,,police,None,,1,,,1,NA,NA,20.485,68.873
+213,Monday-November 2-2009,14 Thw al-Qi`dah 1430 A.H,Working Day,,10.40 AM,Rawalpindi,33.6058,73.0437,Punjab,"Outside National Bank
+Rawalpindi Cantt",Bank,Low,Open,NA,Civilian,None,35,38,60,65,1,15Kg,CMH-Distric headquarter hospital-militry hospital-combined military hospital,20.755,69.359
+214,Monday-November 2-2009,14 Thw al-Qi`dah 1430 A.H,Working Day,,6:40 PM,Lahore,31.5451,74.3407,Punjab,"Checkpost at Babu Sabu Interchange
+on Lahore Islamabad Motorway",Police,High,Open,NA,Police,None,,,10,25,1,10Kg,mian munchi hospital-mayo hospital,21.02,69.836
+215,Sunday-November 8-2009,20 Thw al-Qi`dah 1430 A.H,Holiday,Weekend,9.30 AM,Peshawar,34.0043,71.5448,KPK,"Cattle Market in Adezai
+Village in Peshawar",Market,Low,Open,NA,Government Official,None,12,19,35,45,1,10 Kg,"Lady Reading Hospital 
+Peshawar ",14.74,58.532
+216,Monday-November 9-2009,21 Thw al-Qi`dah 1430 A.H,Holiday,Iqbal Day,9.45 AM,Peshawar,34.0043,71.5448,KPK,police check post near busy intersection that connects charsadda road and ring road-Faqirabad,Police,High,Open,NA,Police,None,,3,5,7,1,7Kg ,NA,15.475,59.855
+217,Tuesday-November 10-2009,22 Thw al-Qi`dah 1430 A.H,Working Day,,4:30 PM,Charsadda,34.1509,71.7359,KPK,ghafoor market in charsadda bazar-tangi road Farooq e Azam Chowk,Market,Low,Open,NA,Civilian,None,32,34,60,100,1,60Kg,"Lady Reading Hospital 
+Peshawar ",15.49,59.882
+218,Friday-November 13-2009,25 Thw al-Qi`dah 1430 A.H,Working Day,,6.45 AM,Peshawar,34.0043,71.5448,KPK,Military Check point at the entrance of regional HQ ISI,Military,High,Open,NA,Military,None,10,13,47,70,1,400Kg,"Lady Reading Hospital-combined military hospital-khyber teaching hospital-
+Peshawar ",17.425,63.365
+219,Friday-November 13-2009,25 Thw al-Qi`dah 1430 A.H,Working Day,,7.15 am,Bannu,32.9861,70.6042,KPK,Bakakhel police station on bannu-miranshah road,Police,High,Closed,NA,Police,None,7,8,22,29,1,200Kg,NA,10.7,51.26
+220,Saturday-November 14-2009,26 Thw al-Qi`dah 1430 A.H,Working Day,,4:15 PM,Peshawar,34.0043,71.5448,KPK,police check post on Pishtakhara Intersection,Police,High,Open,NA,Police,None,,12,25,35,1,50-60Kg,"1. LRH Peshawar
+2. Khyber Teaching
+3. Hayatabad Medical ",17.01,62.618
+221,Monday-November 16-2009,28 Thw al-Qi`dah 1430 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,check point outside Badbher-police station,Police,High,Open,N/A,Police,None,,3,,43,1,250Kg,LRH ,14.65,58.37
+222,Thursday-November 19-2009,2 Thw al-Hijjah 1430 A.H,Working Day,,10.20 am,Peshawar,34.0043,71.5448,KPK,"Main Gate of the Judicial
+Complex on Khyber Road",Government,High,Open,NA,Government Official,None,20,22,46,50,1,10 kg ,"Lady Reading Hospital 
+Peshawar ",15.72,60.296
+223,Tuesday-December 1-2009,14 Thw al-Hijjah 1430 A.H,Working Day,,NA,Swat,35.2227,72.4258,KPK,"District Mangora-Tehsil Kabal
+-Dherai area",Residence,Medium,Closed,,Government Official,None,1,2,11,30,1,10 Kg,NA,13.83,56.894
+224,Wednesday-December 2-2009,15 Thw al-Hijjah 1430 A.H,Working Day,,1:30:00 PM,Islamabad,33.718,73.0718,Capital,Naval Complex,Military,High,Open,NA,Military,None,,2,10,18,1,12Kg,NA,15.595,60.071
+225,Friday-December 4-2009,17 Thw al-Hijjah 1430 A.H,Working Day,,During Friday prayer,Rawalpindi,33.6058,73.0437,Punjab,Qasim market-Parade Lane Masjid,Religious,Medium,Closed,,Military,None,36,40,75,83,1,NA,"1. CMH Rawalpindi
+2. DHQ Rawalpindi
+3. AFIC      4.MH",16.04,60.872
+226,Monday-December 7-2009,20 Thw al-Hijjah 1430 A.H,Working Day,,12:30 PM,Peshawar,34.0043,71.5448,KPK,"At the Gate of Peshawar
+Session Court",Government,High,Open,NA,Government official,None,9,11,37,50,1,8Kg,"Lady Reading Hospital 
+Peshawar ",13.765,56.777
+227,Monday-December 7-2009,21 Thw al-Hijjah 1430 A.H,Working Day,,8.42 pm,Lahore,31.5451,74.3407,Punjab,Moon Market Lahore Allama Iqbal Town,Market,Low,Open,NA,Civilian,None,38,45,100,135,2,NA,"1. Jinnah Hospital
+2. Sheikh Zahyad Hospital
+3. Mayo Hospital 4.services hospital-5.farooq hospital",13.12,55.616
+228,Tuesday-December 8-2009,21 Thw al-Hijjah 1430 A.H,Working Day,,12.10 PM,Multan,30.1886,71.4559,Punjab,checkpost near ISI Office building in Qasim Bala area -Multan Cantt,Military,High,Open,NA,Military,None,8,15,47,61,1,1000 Kg,"1. CMH
+2. Nishtar Hospital ",14.84,58.712
+229,Tuesday-December 15-2009,28 Thw al-Hijjah 1430 A.H,Working Day,,2.30 pm,D.G Khan,30.05,70.6333,KPK,Khosa market near-house of Zulfiqar ali Khosa,Residence,Medium,Open,NA,Government Official,None,24,33,55,70,1,1000 KG,district headquarters hospitals,16.34,61.412
+230,Thursday-December 17-2009,30 Thw al-Hijjah 1430 A.H,Working Day,,,Bannu,32.9861,70.6042,KPK,Essakhel village-house of Local political leader,Residence,Medium,Closed,,Government Official,None,,0,,0,1,NA,NA,6.315,43.367
+231,Friday-December 18-2009,1 MuHarram 1431 A.H. ,Working Day,,1.30 pm,Lower Dir,34.8453,71.9046,KPK,mosque on Khursheed police line- civil colony in Timergarah,Religious,Medium,Closed,,Police,None,,12,28,35,1,20 Kg,DHQ Timergara,10.69,51.242
+232,Tuesday-December 22-2009,5 MuHarram 1431 A.H,Working Day,,11:40 AM,Peshawar,34.0043,71.5448,KPK,"Main Gate Peshawar Press 
+Club",Office Building,Low,Closed,NA,Media,None,1,3,21,24,1,10 kg ,"Lady Reading Hospital 
+Peshawar ",13.12,55.616
+233,Thursday-December 24-2009,7 MuHarram 1431 A.H,Working Day,,11.57 am,Peshawar,34.0043,71.5448,KPK,junction of mall road and Arbab Road-near PIA Building,Police,High,Open,NA,Government Official,None,4,5,24,25,1,10 Kg,"Lady Reading Hospital 
+Peshawar ",13.48,56.264
+234,Thursday-December 24-2009,7 MuHarram 1431 A.H,Working Day,,10.18 pm,Islamabad,33.718,73.0718,Capital,Majlis in Shakrial-near darbad saein boota,Religious,Medium,Open,Shia Religious Gathering ,Religious,Shiite,,1,1,4,1,NA,PIMS,12.7,54.86
+235,Monday-December 28-2009,11 MuHarram 1431 A.H,Holiday,Ashura,6.30 pm,Muzaffarabad,34.3597,73.4711,AJK,CMH Road-Muzaffarabad,Park/Ground,Medium,Open,Muharram Procession,Religious,Shiite,10,15,81,100,1,NA,NA,9.525,49.145
+236,Friday-January 1-2010,15 MuHarram 1431 A.H,Working Day,,5:00:00 PM,Lakki marwat,32.6018,70.9148,KPK,Peshawar shah Hasankhel village ground,Park/Ground,Medium,Open,,Civilian,None,88,100,37,100,1,250 kg,Near local hospital ,6.805,44.249
+237,Wednesday-January 6-2010,20 MuHarram 1431 A.H,Working Day,,6:50:00 AM,Sudhanoti,33.706,73.7242,AJK,Military Base in tarar khal town sudhanoti district,Military,High,Open,,Military,None,,4,11,12,1,NA,CMH Rawala kot,11.39,52.502
+238,Friday-January 8-2010,22 MuHarram 1431 A.H,Working Day,,,Khyber Agency ,34.0211,71.2874,KPK,at the gate of the headquarters of the militant group Ansar-ul-Islam in the Tirah area,Religious,low,Open,Ansar-ul-Islam (AI) Shura,Religious,None,,8,,11,1,NA,NA,11.33,52.394
+239,Friday-January 8-2010,22 MuHarram 1431 A.H,Working Day,,,peshawar,34.0043,71.5448,KPK,Adezai village in Matni on the outskirts of Peshawar,Police,High,Open ,,Police,None,,0,,6,1,NA,NA,12.075,53.735
+240,Saturday-January 16-2010,30 MuHarram 1431 A.H,Working Day,,10:00:00 AM/10:15 AM,Poonch,33.8243,73.7949,AJK,Dothan village near rawlakot,Mobile,High,Open,,Police,None,,1,1,2,1,600 kg,CMH Rawala kot,12.41,54.338
+241,Saturday-January 23-2010,8 safar 1431 A.H,Working Day,,NA,Tank,32.226,70.3761,KPK,gomal police station,Police,High,Open,,Police,None,4,5,3,11,1,NA,NA,6.015,42.827
+242,Friday-January 29-2010,14 safar 1431 A.H,Working Day,,NA,Bajaur Agency,34.8718,71.5249,FATA,Bajor agency headquarter (khar town) security check post,Military,High,Open,,Military,None,16,17,26,47,1,NA,District headquarter hospital Timra,6.905,44.429
+243,Wednesday-February 10-2010,26 safar 1431 A.H,Working Day,,NA,Khyber Agency,34.0211,71.2874,KPK,Jamrud tehsil Khyber agency,Mobile,High,Open,,Military,None,17,22,6,11,1,NA,1.Hayatabad Meical hospital,8.07,46.526
+244,Thursday-February 11-2010,27 safar 1431 A.H,Working Day,,Maghrib prayers,Bannu,32.9861,70.6042,KPK,Bannu police Lines 2-,Police,High,Open,,Police,None,,15,25,30,2,NA,1.District Headquarter Hospital Bannu  2.Combined Military Hospital,2.32,36.176
+245,Thursday-February 18-2010,4 Raby` al-awal 1431 A.H,Working Day,,NA,Khyber Agency,34.0211,71.2874,KPK,LI center near Darss Mosque in akakhel area of Tirah valley,Religious,Medium,Open,Lashkar-e-Islam Commander was the target,Anti-Militants,Sunni,22,31,30,110,1,40Kg,Mashte hospital,11.835,53.303
+246,Saturday-February 20-2010,6 Raby` al-awal 1431 A.H,Working Day,,9:30:00 AM,Mansehra,34.3333,73.2,KPK,Balakot police station,Police,High,Open,,Police,None,,1,4,10,2,5Kg,1.Manseehra District Headquarters Hospital ,13.74,56.732
+247,Monday-February 22-2010,8 Raby` al-awal 1431 A.H,Working Day,,4:20:00 AM,Swat,35.2227,72.4258,KPK,Mingora-Nishat Chowk,Mobile,High,Open,attack on security forces vehicle,Military,None,7,13,37,41,1,NA,1.CMH Hospital 2.Seydo Hospital,11.66,52.988
+248,Saturday-February 27-2010,13 Raby` al-awal 1431 A.H,Holiday,Eid Milad un-Nabi,NA,Karak,33.1193,71.0951,KPK,Karak Police Station,Police,High,Open,,Police,None,,4,23,24,2,250Kg,District Headquarter Hospital Karak,11.69,53.042
+249,Friday-March 5-2010,19 Raby` al-awal 1431 A.H,Working Day,,NA,Hangu,33.5351,71.0713,KPK,Tal parachinar road in the jurisdiction of dandore area of Hangu,Mobile,Low,Open,,Civilian,Shiite,12,14,30,35,1, 12 kg,1.CMH Tal Hospital 2.District Headquarters hospital hangu,12.35,54.23
+250,Monday-March 8-2010,22 Raby` al-awal 1431 A.H,Working Day,,8:20:00 AM,Lahore ,31.5451,74.3407,Punjab,(SIA ) office-model Town area,Office Building,High,Open,,Military,None,13,14,80,100,1,600Kg,1.Jinna Hospital 2.General Hosptal 3.shaikh zayed Hospital 4.Ittefaq Hospital,20.46,68.828
+251,Friday-March 12-2010,26 Raby` al-awal 1431 A.H,Working Day,,12:45:00 PM,Lahore ,31.5451,74.3407,Punjab,Lahore Cant R.A Bazar Stop,Military,High,Open,,Military,Sunni,43,57,90,100,2,12 kg,Children Hospital,23.32,73.976
+252,Saturday-March 13-2010,27 Raby` al-awal 1431 A.H,Working Day,,9:15:00 AM,Swat,35.2227,72.4258,KPK,District court Checkpost,Police,High,Open,,Police,None,14,17,52,60,1,14 kg,1. Judical Complex ,16.365,61.457
+253,Monday-March 29-2010,13 Raby` al-THaany 1431 A.H.,Working Day,,,Tank,32.226,70.3761,KPK,office of Pro-govt tribal leader-Misbahhuddin mehsud,Government/Office Building,Medium,Closed,,Anti-Militants,Sunni,,2,,2,1,NA,,16.64,61.952
+254,Monday-March 29-2010,13 Raby` al-THaany 1431 A.H.,Working Day,,,Bajaur Agency,34.8718,71.5249,FATA,Lagharai area in Bajaur,Mobile,Low,Open,Leader of anti-militants lashkar,Anti-Militants,Sunni,,2,5,8,1,NA,Agency headquarter hospital in Khar,19.45,67.01
+255,Monday-April 5-2010,20 Raby` al-THaany 1431 A.H.,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,U.S. consulate peshwar,Foreign,High,Open,,foreigner,Christian,6,8,,0,1,NA,,23.135,73.643
+256,Monday-April 5-2010,20 Raby` al-THaany 1431 A.H.,Working Day,,12:00 noon,Lower Dir,34.8453,71.9046,KPK,ANP rally in Timergara ,Hotel,Medium,Open,,Government Official,None,50,56,75,120,3,NA,1.Lady Reading Hospital 2.Khaber Teaching Hospital,21.1,69.98
+257,Friday-April 16-2010,2 Jumaada al-awal 1431 A.H,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,Quetta civil Hospital ,Hospital,Low,Closed,,Government Official,Shiite,,11,35,40,1,15 kg,1.Civil Hospital 2.Bolan Medical Complex 3. CMH,25.14,77.252
+258,Saturday-April 17-2010,3 Jumaada al-awal 1431 A.H,Working Day,,12:00:00 PM/11:55 AM,Kohat,33.5833,71.4333,KPK,IDP camp-kacha Pakha area on Hangu Road Kohat,Park/Ground,Low,Open,,Civilian,None,41,44,60,70,2,12 Kg,1.District Headquarter Hospital  2.Liaqat Hospital,28.745,83.741
+259,Sunday-April 18-2010,4 Jumaada al-awal 1431 A.H,Holiday,Weekend,7:15:00 AM,Kohat,33.5833,71.4333,KPK,Kohat Police Station,Police,High,Closed,,Police,None,,7,30,32,1,250 kg,District Headquarter Hospital,26.62,79.916
+260,Monday-April 19-2010,5 Jumaada al-awal 1431 A.H,Working Day,,12:30:00 PM,Peshawar,34.0043,71.5448,KPK,Protest demonstration Qissa Khawani Bazaar,Park/Ground,Low,Open,Jamit-i-Islam members,Anti-Militants,Sunni,23,24,27,49,1,8 kg,Lady Reading Hospital,25.96,78.728
+261,Wednesday-April 28-2010,14 Jumaada al-awal 1431 A.H,Working Day,,4:05:00 AM,Peshawar,34.0043,71.5448,KPK,Pir Bala Police Check post ,Police,High,Open,,Police,None,4,5,11,14,1,300 kg,Lady Reading Hospital,26.47,79.646
+262,Saturday-May 1-2010,17 Jumaada al-awal 1431 A.H,Holiday,Labour Day,NA,Swat,35.2227,72.4258,KPK,Sohrab Khan Market town Mingora ,Market,Low,Open,,Civilian,None,3,7,9,16,1,15 kg,NA,23.315,73.967
+263,Sunday-May 2-2010,18 Jumaada al-awal 1431 A.H,Holiday,Weekend,NA,Bajaur Agency,34.8718,71.5249,FATA,Bilalabad area near Khar town,Military,High,Open,,Military,None,,0,,0,1,NA,NA,27.025,80.645
+264,Friday-May 28-2010,14 Jumaada al-THaany 1431 A.H,Working Day,,NA,Lahore ,31.5451,74.3407,Punjab,Model Town and garhi shahu  lahore ,Religious,Medium,Closed,,Civilian,Ahmedi,80,95,92,200,1,NA,NA,31.495,88.691
+265,Thursday-July 1-2010,19 Rajab 1431 A.H,Working Day,,10:46:00 PM/11:00 PM,Lahore ,31.5451,74.3407,Punjab,Data Darbar-Lahore,Religious,Medium,Closed,,Civilian,None,40,42,,175,2,20 kg ,"1. Mayo Hospital
+2. Sir Ganga Ram Hospital 
+3. Services Hospital ",32.37,90.266
+266,Friday-July 9-2010,27 Rajab 1431 A.H,Working Day,,NA,Mohmand Agency ,32.9746,70.1456,FATA,"Yakka Ghund Tehsil
+of Mohmand Agency",Park/Ground,Low,Open,,Government Official,None,65,80,104,110,2,NA,Lady Reading Hospital Peshwar,26.725,80.105
+267,Monday-July 12-2010,30 Rajab 1431 A.H,Working Day,,NA,Kohat,33.5833,71.4333,KPK,outside the guest house of a pro-Government tribal elder-Malik Swab Khan-in Kohat District,Government,Low,Open,,Government Official,None,,0,,0,1,NA,NA,32.205,89.969
+268,Sunday-July 18-2010,6 SHa`baan 1431 A.H,Holiday,Weekend,NA,Sargodha,32.0791,72.6718,Punjab,Dar-ul-uloom muhamdia imambargh,Religious,Medium,Closed,,Religious,Shiite,3,4,9,26,1,NA,NA,34.805,94.649
+269,Monday-July 26-2010,14 SHa`baan 1431 A.H,Working Day,,NA,Nowshehra,34.0322,73.0944,KPK,"Nowshera near
+Provincial Info Ministr house ",Residence,Medium,Closed,,Government Official,Sunni,,8,23,25,1,10 kg,Lady Reading Hospital Peshwar,31.52,88.736
+270,Wednesday-August 4-2010,23 SHa`baan 1431 A.H,Working Day,,around 4:30 PM,Peshawar,34.0043,71.5448,KPK,FC chowk near Dean's trade center,Mobile,High,Open,NA,Military,None,3,4,11,14,1,10Kg,NA,28.59,83.462
+271,Monday-August 23-2010,13 RamaDHaan 1431 A.H.,Working Day,,,South waziristan,32.3202,69.8597,FATA,Wana-mosque,Religious,Medium,Closed,Pro-Government cleric,Anti-Militants,Sunni,26,30,,40,1,20Kg,NA,25.23,77.414
+272,Wednesday-September 1-2010,23 RamaDHaan 1431 A.H,Working Day,,6:55pm/7:00pm/7:10pm,Lahore ,31.5451,74.3407,Punjab,1)First blast lower mal gate 2)Ghaznavi street urdu bazar 3) Bhati Chowk ,Park/Ground,Low,Open,Yaum-e-Ali,Religious,Shiite,27,43,150,243,3,NA,1)Mayo Hospital 2)Sir ganga Ram Hospital  ,31.97,89.546
+273,Friday-September 3-2010,24 RamaDHaan 1431 A.H.,Working Day,,NA,Quetta,30.2095,67.0182,Baluchistan,Mizan chowk Quetta,Park/Ground,Low,Open,Al-Quds Rally organized by Imamia stdents organization,Civilian,None,54,62,150,200,1,15Kg,1.Combined Miltry Hospital                2.Civil Hospital ,26.745,80.141
+274,Friday-September 3-2010,24 RamaDHaan 1431 A.H.,Working Day,,NA,Mardan,34.1982,72.0444,KPK,worship place of the Ahmedis in Muslimabad area ,Religious,Medium,Closed,,Religious,None,,1,,4,1,NA,NA,27.875,82.175
+275,Monday-September 6-2010,27 RamaDHaan 1431 A.H,Holiday,Defence Day,7:05:00 AM,lakki marwat,32.6018,70.9148,KPK,lakki marwat Police Station,Police,High,Closed,,Police,None,15,19,34,57,1,600 kg,1.Civil Hospital      2.DHQ Hospital,26.635,79.943
+276,Thursday-September 9-2010,30 RamaDHaan 1431 A.H,Working Day,,12:30:00 PM,Quetta,30.2095,67.0182,Baluchistan,"Raily Housing Society
+Near Finance Minnister
+House Quetta",Residence,Medium,Open,,Government Official,None,2,5,3,6,1,15 kg,NA,25.8,78.44
+277,Thursday-October 7-2010,28 SHawwal 1431 A.H,Working Day,,6:45:00 PM,Karachi,24.9918,66.9911,Sindh,Shrine of Abdullah shah ghazi in Clifton,Religious,Medium,Closed,Attendess at shrine,Religious,Sunni,6,10,60,77,2, 6 kg,"1. JPMC
+2. Civil Hospital KHI",30.45,86.81
+278,Monday-October 18-2010,10 Thw al-Qi`dah 1431 A.H,Working Day,,NA,Lakki marwat,32.6018,70.9148,KPK,jabukhel village,Park/Ground,Low,Open,police tried to stop the car but the driver exploded the car in residential area,civilian,None,,,5,14,1,1200Kg,,20.785,69.413
+279,Monday-November 1-2010,24 Thw al-Qi`dah 1431 A.H,Working Day,,8:45:00 AM,Swabi ,34.1335,72.4702,KPK,District Shahmanoor Police Lines Swabi,Police,High,Open,,Police,None,2,5,10,13,1,12 kg ,1.Judicial Complex ,18.87,65.966
+280,Friday-November 5-2010,28 Thw al-Qi`dah 1431 A.H,Working Day,,1:30:00 PM,Dara Adam khel,33.6854,71.5131,KPK,Dara Adam Khel Corwded Mosque ,Religious,Medium,Closed,,Religious,Sunni,61,76,70,132,1,15Kg,1.District Headqurters Hospital 2.Lady reading hospital ,20.1,68.18
+281,Thursday-November 11-2010,5 Thw al-Hijjah 1431 A.H,Working Day,,8:10:00 PM,Karachi ,24.9918,66.9911,Sindh,Crime Investigation Department,Military,High,Closed,,Military,None,16,20,100,140,1,1000 Kg ,NA,28.175,82.715
+282,Thursday-November 11-2010,5 Thw al-Hijjah 1431 A.H,Working Day,,NA,Poonch,33.8243,73.7949,AJK,Rawalacot Security force vehicle,Mobile,Low,open,,Military,,,0,,2,1,NA,1.Zahid hospital ,18.315,64.967
+283,Sunday-November 14-2010,8 Thw al-Hijjah 1431 A.H,Holiday,Weekend,NA,South waziristan,32.3202,69.8597,FATA,Shakai village ,Market,Low,Open,,Anti-Militants,Sunni,,1,,8,1,NA,Wana hospital,7.985,46.373
+284,Tuesday-November 30-2010,24 Thw al-Hijjah 1431 A.H,Working Day,,8:45:00 AM,Bannu,32.935,70.6688,KPK,near furniture market-Banu,Mobile,High,Open,police van crossing the chowk,Police,None,2,6,6,22,1, 12 kg,NA,9.975,49.955
+285,Monday-December 6-2010,30 Thw al-Hijjah 1431 A.H,Working Day,,2:00:00 PM,Mohmand Agency ,32.9746,70.1456,Fata,"Mohmad Agency-Ghalani area-Political 
+Agent office ",Government,High,Closed,,Government Official,None,40,50,60,100,2,NA,"1.Tehsil Headquarters Ghalani 
+2.Lady Reading ",5.08,41.144
+286,Tuesday-December 7-2010,1 MuHarram 1432 A.H,Working Day,,NA,Quetta,30.2095,67.0182,Baluchistan,railway level crossing sryab pattak,Transport,Low,Open,Minister Balochistan,Government Official,None,,,10,12,1,NA,CMH ,4.51,40.118
+287,Wednesday-December 8-2010,2 MuHarram 1432 A.H,Working Day,,1:00:00 PM,Kohat,33.5833,71.4333,KPK,Kohat Bus stand,Transport,Low,Open,,Civilian,None,18,20,,32,1,10 kg,NA,12.205,53.969
+288,Friday-December 10-2010,4 MuHarram 1432 A.H,Working Day,,4:00:00 PM,Hangu,33.5351,71.0713,KPK,Pass Killay area-under construction Private Hospital,Hospital,Low,Closed,,civilian,None,10,17,16,30,1,400 KG,Hospitals in Kohat Division,10.385,50.693
+289,Thursday-December 23-2010,17 MuHarram 1432 A.H,Working Day,,NA,Islamabad,33.718,73.0718,Capital,Entrance to imambargah,Religious,Medium,Closed,,religious,Sunni,,1,,2,1,NA,NA,11.73,53.114
+290,Friday-December 24-2010,18 MuHarram 1432 A.H,Working Day,,NA,Peshawar,34.0043,71.5448,KPK,Mall road peshawar,Police,High,Open,Police was not sure about the bmbers target,Civilian,None,,4,,24,1,10 kg ,lady Reading Hospital-CMH,10.845,51.521
+291,Saturday-December 25-2010,19 MuHarram 1432 A.H,Holiday,Christmas/ birthday of Quaid-e-Azam,NA,Bajaur Agency,34.8718,71.5249,FATA,WFP office Khar,Foreign,High,Closed,target was police checkpost,Police,None,42,47,80,105,1,NA,NA,9.705,49.469
+292,Monday-December 27-2010,21 MuHarram 1432 A.H,Working Day,,Evening,Muzaffarabad,34.3597,73.4711,AJK,Procession from Neelam Valley,Park/Ground,Medium,Open,,religious,Shiite,,7,,65,1,NA,NA,9.24,48.632
+293,Wednesday-January 12-2011,8 safar 1432 A.H,Working Day,,Evening,Bannu,32.935,70.6688,KPK,Bannu Police Station,Religious,Medium,Closed,,civilian,Sunni,18,20,15,20,1,1000 kg,Bannu's Main hospital,7.775,45.995
+294,Tuesday-January 25-2011,21 safar 1432 A.H,Working Day,,Evening,Lahore,31.5451,74.3407,Punjab,Urdu Bazar intersection on circular road,Police,High,Open,Hazrat Imam Hussain Chehlum Procession,Religious,Shiite,11,17,71,80,1,5Kg,Mayo Hospital-ganagaram hospital,14.165,57.497
+295,Thursday-January 27-2011,23 safar 1432 A.H,Working Day,,,Bajaur Agency,34.8718,71.5249,FATA,Sarameena area of Khar tehsil in the Bajaur Agency,Military,High,Open,,Military,None,,0,,0,1,NA,NA,10.395,50.711
+296,Monday-January 31-2011,27 safar 1432 A.H,Working Day,,Morning,Peshawar,34.0043,71.5448,KPK,Kohat road Garhi Kamruddin over head bridge,Mobile,High,Open,Police car,Police,None,5,7,14,16,1,7Kg,NA,14.355,57.839
+297,Thursday-February 10-2011,7 Raby` al-awal 1432 A.H,Working Day,,8:00 AM/8:15:00 AM,Mardan,34.1982,72.0444,KPK,Punjab Regiment Center,Military,High,Open,,Military,None,28,36,35,50,1,9Kg,CMH Mardan-CMH rawalpindi,11.06,51.908
+298,Friday-February 11-2011,8 Raby` al-awal 1432 A.H,Working Day,,,Mohmand Agency ,32.9746,70.1456,Fata,Dabo Dheri checkpost in Prang Ghar ,Police,High,Open,,Police,None,,1,,3,1,NA,NA,1.445,34.601
+299,Saturday-February 12-2011,9 Raby` al-awal 1432 A.H,Working Day,,Saturday Morning,Malakand ,34.503,71.9046,KPK,Batakhel area,Residence,Low,Closed,security forces were trying to arest the bomber,Military,None,1,3,,,1,NA,NA,8.305,46.949
+300,Saturday-February 19-2011,16 Raby` al-awal 1432 A.H,Working Day,,,Bannu,32.935,70.6688,KPK,police station in bannu,Police,High,Open,,Police,None,,,,4,1,NA,NA,5.45,41.81
+301,Tuesday-March 1-2011,26 Raby` al-awal 1432 A.H,Working Day,,Night,Karachi,24.9918,66.9911,Sindh,near MDA flats along national highway-in Shah Latif Town,Park/Ground,Low,Open,,civilian,None,,0,,0,1,,NA,23.53,74.354
+302,Thursday-March 3-2011,28 Raby` al-awal 1432 A.H,Working Day,,,Hangu,33.5351,71.0713,KPK,spin khawri chowk,Mobile,Low,Open,,Police,None,5,9,30,36,1,400Kg,NA,9.565,49.217
+303,Wednesday-March 9-2011,4 Raby` al-THaany 1432 A.H,Working Day,,,Peshawar,34.0043,71.5448,KPK,Adezai Village-sheikh Neka graveyard,Park/Ground,Low,Open,,Anti-Militants,Sunni,37,43,,52,1,16Kg,Lady Reading Hospital,18.605,65.489
+304,Thursday-March 24-2011,19 Raby` al-THaany 1432 A.H,Working Day,,8:00 AM,Hangu,33.5351,71.0713,KPK,Rescue 15 Building adjecent to police station in Thall,Police,High,Open,,Police,None,5,8,25,30,1,250kg,CMH Thall,22.185,71.933
+305,Wednesday-March 30-2011,25 Raby` al-THaany 1432 A.H,Working Day,,10:45 AM/ 11:00 AM,Swabi ,34.1335,72.4702,KPK,Peshawar- Islamabad Motorway-Swabi Interchange,Police,High,Open,,Government Official,None,10,13,12,23,1,8Kg,Shahmansoor Hospital Complex/Swabi District Hospital/khunda Civil Hospital and  LRH Peshawar,20.12,68.216
+306,Thursday-March 31-2011,26 Raby` al-THaany 1432 A.H,Working Day,,12:45 PM,Charsadda,34.1509,71.7359,KPK,Near DCO office-Nowshehra road,Park/Ground,Low,Open,,Government Official,None,,12,20,42,1,,Lady reading hospital,19.405,66.929
+307,Friday-April 1-2011,27 Raby` al-THaany 1432 A.H,Working Day,,,Dara Adam khel,33.6854,71.5131,KPK,near a mosque in Dara adam khel bazar-khalid market,Market,Low,Open,peace committee members were present in mosque,Anti-Militants,Sunni,,1,2,8,1,8kg,,18.315,64.967
+308,Sunday-April 3-2011,29 Raby` al-THaany 1432 A.H,Holiday,Weekend,around 5pm and second attack after 15min/5:16:00 PM and second attack after 25 min,D.G Khan ,30.05,70.6333,KPK,sakhi arwar shrine-40 km away from D.G Khan,Religious,Medium,Open,Urs ceremony,Religious,Sunni,42,50,100,114,2,,sakhi sarwar civil hospital-dera district headquarters hospital,23.035,73.463
+309,Monday-April 4-2011,30 Raby` al-THaany 1432 A.H,Working Day,,Monday After Noon,Lower Dir,34.8453,71.9046,KPK,Bargain Car market in Munda area of Lower Dir District,Market,Low,Open,,Anti-Militants,Sunni,7,9,22,30,1,8Kg,Temargara Hospital,16.585,61.853
+310,Thursday-April 7-2011,3 Jumaada al-awal 1432 A.H,Working Day,,7:50 AM,Quetta,30.2095,67.0182,Baluchistan,Gulistan road-also known as police lines,Residence,Medium,Open,,Police,None,,1,17,19,1,180kg,Civil hospital-CMH,20.76,69.368
+311,Saturday-April 23-2011,19 Jumaada al-awal 1432 A.H,Working Day,,,Bajaur Agency,34.8718,71.5249,FATA,Salarzai area-65 km northeast of khar,Mobile,Low,Open,,Anti-Militants,Sunni,,5,5,8,1,,Agency headquarter hospital in Miranshah,26.34,79.412
+312,Friday-May 13-2011,,Working Day,,6:00 AM,Charsadda,34.1509,71.7359,KPK,FC headquarters in Shabqadar-30km from peshawar,Military,High,Open,FC personnel were gathered there,Military,None,82,95,128,140,2,16-20kg,LRH ,29.285,84.713
+313,Saturday-May 14-2011,,Working Day,,11:20:00 AM/ 11:00 AM,D.G Khan ,30.05,70.6333,KPK,MCB bank-Main bazar of Taunsa Sharif,Bank,Low,Open,,civilian,None,,3,,9,1,,,33.87,92.966
+314,Wednesday-May 25-2011,,Working Day,,4:40 AM,Peshawar,34.0043,71.5448,KPK,CID station,Police,High,Closed,,Police,None,8,11,41,48,1,300kg,Lady reading hospital-khyber teaching complex-hayatabad medical complex,33.975,93.155
+315,Thursday-May 26-2011,,Working Day,,6:00 PM,Hangu,33.5351,71.0713,KPK,checkpoint close to Hangu police station and hangu DPO office,Police,High,Open,,Police,None,28,32,55,60,1,450kg,hungu district headquarter hospital,27.53,81.554
+316,Saturday-May 28-2011,,Working Day,,10:00 AM,Bajaur Agency,34.8718,71.5249,FATA,Bajaur Agency's salarzai village-near Afghan border,Market,Low,Open,,Anti-Militants,Sunni,,8,,11,1,,khar agency headquarter hospital,30.06,86.108
+317,Sunday-June 5-2011,,Holiday,Weekend,8:45 PM,Nowshehra,34.0322,73.0944,KPK,Army run Bakery on Mall road-Nowshehra cantt,Military,High,Closed,,Military,None,18,19,28,45,1,8Kg,Lady reading hospital,32.48,90.464
+318,Sunday-June 12-2011,,Holiday,Weekend,11:45 PM,Peshawar,34.0043,71.5448,KPK,Khyber super market-peshawar cantt,Market,Low,Open,,Civilian,None,32,35,80,107,1,10 Kg,Lady reading hospital,31.05,87.89
+319,Monday-June 13-2011,,Working Day,,3:00 PM,Islamabad,33.718,73.0718,Capital,silk bank in I-8 markaz,Bank,Low,Open,,Civilian,None,1,2,4,6,1,7kg,PIMS-Shifa International hospital,32.085,89.753
+320,Saturday-June 25-2011,,Working Day,,,D.I Khan ,31.8238,70.9095,KPK,Kolache Town,Police,High,Closed,,Police,None,,10,3,5,1,,,32.925,91.265
+321,Monday-July 11-2011,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Bazar in Central Battagram,Market,Low,Open,,Government Official,None,,7,25,26,1,,Battagram District Headquarters hospital,31.545,88.781
+322,Thursday-July 21-2011,,Working Day,,,South waziristan,32.3202,69.8597,FATA,South waziristan,Mobile,Low,Open,,Foreigner,NA,,,,2,1,,Jandola hospital,24.3,75.74
+323,Sunday-July 24-2011,,Holiday,Weekend,,South waziristan,32.3202,69.8597,FATA,Security Checkpost in chak Malai Area,Military,High,Open,,Military,NA,,1,,7,1,,,25.195,77.351
+324,Saturday-August 6-2011,,Working Day,,,Mohmand Agency ,32.9746,70.1456,Fata,Danish Kol Bazaar Pandyali,Market,Low,Open,,Military,NA,,1,,0,1,,,24.745,76.541
+325,Thursday-August 11-2011,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Check post near lahori gate,Police,High,Open,,Police,NA,0,2,,12,1,,,30.1,86.18
+326,Friday-August 19-2011,,Working Day,,Friday prayer time,Khyber Agency,34.0211,71.2874,KPK,Jamia Masjid Madina in Ghundi Area of Jamrud,Religious,Medium,Closed,,Civilian,NA,47,60,70,130,1,,Tehsil Headquarters hospital Jamrud-Hayatabad Medical complex-Khyber Teaching Hospital,30.6,87.08
+327,Wednesday-August 31-2011,5 SHawwal 1432 A.H.,Holiday,Eid-ul-Fitar,Wednesday Morning just after offering Eid prayers,Quetta,30.2095,67.0182,Baluchistan,near the Eidgah in Marriabad Major Muhammad Ali Shaheed Road.,Religious,Medium,Open,,religious,Shiite,11,13,12,25,1,60kg,city hospitals ,25.59,78.062
+328,Thursday-September 1-2011,6 SHawwal 1432 A.H.,Holiday,Eid-ul-Fitar,Thursday night ,Lakki marwat,32.6018,70.9148,KPK,near a police station in Darra Pezu Town,Police,High,Open,,Police,NA,3,2,14,25,1,300kg,NA,20.84,69.512
+329,Wednesday-September 7-2011,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,FC DIG's residence at Anscumb road ,Military,High,Closed,,Military,NA,26,28,60,82,2,100kg,Civil hospital-CMH,28.465,83.237
+330,Thursday-September 15-2011,,Working Day,,After noon,Lower Dir,34.8453,71.9046,KPK,Jandola Town in Lower Dir-100 km from swat valley,Park/Ground,Low,Open,,Civilian,NA,26,34,63,75,1,NA,,27.235,81.023
+331,Monday-September 19-2011,,Working Day,,7:30 AM,karachi,24.9918,66.9911,Sindh,Street 32-off Saba Avenue-DHA Phase VIII-house of CID SSP,Police,High,Open,,Police,NA,,8,4,7,1,300kg,,29.195,84.551
+332,Friday-October 28-2011,,Working Day,,,Nowshehra,34.0322,73.0944,KPK,Risalpur area of the Nowshera district,Police,,,,Police,NA,,2,,,1,,,17.535,63.563
+333,Monday-November 7-2011,,Working Day,,,Swabi ,34.1335,72.4702,KPK,Malikabad area of Swabi,Government Official,,,,Government Official,,,3,,9,,,,19.065,66.317
+334,Wednesday-November 16-2011,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Sea view-clifton-at lover's point adjacent to village hotel,Mobile,low,Open,,Police,None,5,7,,1,1,NA,Jinnah Postgraduate Medical Center,25.305,77.549
+335,Friday-November 18-2011,,Working Day,,3:38AM,Karachi,24.9918,66.9911,Sindh,Block 13-near Pehlwan Goth roundabout-Gulistan-e-Jauhar,Residence,low,Closed,,Military,None,,1,,,1,NA,Jinnah Postgraduate Medical Center,27.245,81.041
+336,Saturday-December 24-2011,,Working Day,,5:30 AM/5:40 AM,Bannu,32.935,70.6688,KPK,Tochi Scouts headquarters in Bannu,Military,High,Open,,Military,None,4,6,18,19,1,500 kg,CMH Bannu,7.28,45.104
+337,Tuesday-January 3-2012,,Working Day,,1:00 PM,Gujrat,32.5737,74.0786,Punjab,Gorali village-4 km from Gujrat,Park/Ground,Low,Open,,Civilian,None,,2,,,1,NA,NA,10.935,51.683
+338,Tuesday-January 3-2012,,Working Day,,2:00 PM,Peshawar,34.0043,71.5448,KPK,trade center on arbab road in university town,Market,Low,Closed,,Civilian,None,,2,19,28,1,5-6kg,Khyber teaching Hospital,12.07,53.726
+339,Tuesday-January 3-2012,,Working Day,,2:15 PM,Khyber Agency,34.0211,71.2874,FATA,landikotal town,Market,Low,open,,Civilian,None,,3,7,9,1,NA,,11.285,52.313
+340,Saturday-January 14-2012,,Working Day,,2:00 PM,D.I Khan,31.8238,70.9095,KPK,District police officer's office,Police,High,Open,,Police,None,4,8,7,10,3,NA,District Headquarters Hospital,6.71,44.078
+341,Monday-January 30-2012,,Working Day,,4:00 PM,Peshawar,34.0043,71.5448,KPK,Pakha Ghullam area,Residence,Low,Open,,Anti-Militants,None,3,4,7,8,1,3kg,Lady Reading Hospital,11.325,52.385
+342,Friday-February 17-2012,,Working Day,,2:00 PM,Kuram Agency ,32.9746,70.1456,FATA,Parachinar Outside Shia Mousque,Market,Low,Open,,Civilian,Shiite,21,28,,36,1,NA,Agency Headquarter Hospital,0.04,32.072
+343,Thursday-February 16-2012,,Working Day,,,Upper Dir,35.1977,71.8749,FATA,Dir Town in Northwestren Districk of Upperdir near Afghan Boarder,Market,Low,Open,,Civilian,None,1,1,3,3,1,NA,,4.985,40.973
+344,Friday-February 24-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,C-Division Police Station (Kotwali police Stataion),Police,High,Closed,,Police,None,0,4,,6,3,NA,,9.905,49.829
+345,Saturday-March 3-2012,,Holiday,Weekend,,Peshawar,34.0043,71.5448,KPK,Shabqadar town 35KM northeast of Peshawar,Mobile,High,Open,,Government Official,None,0,1,,6,1,6kg,Lady Reading Hospital (LRH),16.955,62.519
+346,Sunday-March 4-2012,,Holiday,Weekend,,D.I Khan,31.8238,70.9095,KPK,Police patrol in main market area of D.I Khan KPK,Mobile,Low,Open,,Police,None,,0,,3,1,NA,District Headquarters Hospital,15.735,60.323
+347,Sunday-March 11-2012,,Holiday,Weekend,,Peshawar,34.0043,71.5448,KPK,Badaber Area 15Km from Peshawer,Park/Ground,Low,Open,,Government Official,None,14,15,30,33,1,6Kg,Lady Reading Hospital (LRH),13.33,55.994
+348,Thursday-March 15-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Pishtakhara Square-Close to Bara-Khayber Aagency,Police,Low,Open,,Police,None,1,1,2,5,1,6kg,Hayatabad Medical Hospital-Khyber Teaching Hospital,15.75,60.35
+349,Friday-March 23-2012,,Working Day,,,Khyber Agency,34.0211,71.2874,KPK,Akkakhel area of Bara in Khyber Agency,Religious,Low,Open,,Anti-Militants,None,5,13,9,10,1,NA,,19.65,67.37
+350,Thursday-April 5-2012,,Working Day,,7:56 PM,Karachi,24.9918,66.9911,Sindh,Garision Area of Malir,Mobile,Low,Open,,Police,None,4,7,12,14,1,NA,,31.345,88.421
+351,Friday-May 4-2012,,Working Day,,7:45 AM,Bajaur Agency,34.8718,71.5249,FATA,security checkpoint in the middle of Khar Bazaar ,Market,Low,Open,,Police,None,24,26,40,75,1,N/A,Agency Headquarters Hospital (AHH)-Lady Reading Hospital (LRH)-,24.58,76.244
+352,Tuesday-June 12-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Bazidkhel Village-Badhaber Area,Mobile,Low,Open,,Anti-Militants,None,2,3,,5,1,8Kg,Lady Reading Hospital (LRH),30.605,87.089
+353,Thursday-June 28-2012,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,Hazar Ganji Area,Mobile,Low,Open,,Religious,Shiite,13,14,20,30,1,50kg,Civil hospital-Bolan Medical Complex-CMH,28.455,83.219
+354,Monday-July 16-2012,,Working Day,,9:30AM,Bannu,32.935,70.6688,KPK,Old City Police Station,Police,High,Closed,,Police,None,2,7,2,8,1,NA,District Hospital Bannu,24.555,76.199
+355,Monday-September 3-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Abdara Road,foreign,Low,Open,,Foreigner,None,0,2,18,21,1,100-110kg,Khyber Teaching Hospital-American Club,29.015,84.227
+356,Monday-September 10-2012,,Working Day,,2:40pm,Kuram Agency ,32.9746,70.1456,FATA,Kashmir Chowk-Parachinar,Market,Low,Open,,Civilian,None,14,15,40,80,1,NA,,19.935,67.883
+357,Saturday-October 13-2012,,Holiday,Weekend,10:35am,Dara Adam khel,33.6854,71.5131,KPK,Darra Bazar-Near Headquarters of Pro-Ggovernment Peac Body,Market,Medium,Open,,Anti-Militants,None,13,20,39,41,1,30kg,Lady Reading Hospital,23.495,74.291
+358,Sunday-November 4-2012,,Holiday,Weekend,2:00 PM / 2:30 PM,Buner,34.3943,72.6151,KPK,Near District Headquarters Hospital in Daggar Area,Mobile,Low,Open,,Anti-Militants,None,5,6,7,10,1,,District Headquarters Hospital ,19.195,66.551
+359,Wednesday-November 7-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Near Khan Razzaq Police Station-Qissa Khawani Bazaar,Mobile,High,Open,,Police,None,6,8,28,37,1,7kg-8kg,Lady Reading Hospital,19.825,67.685
+360,Thursday-November 8-2012,,Working Day,,6:55am,Karachi,24.9918,66.9911,Sindh,Sachal Rangers' Headquarters-North Nazimabad Block B Area,Military,High,Open,,Military,None,0,3,18,23,1,100kg-150kg,Abbasi Shaheed Hospital-Sindh Rangers Hospital-PNS Shifa Hospital,25.995,78.791
+361,Monday-November 19-2012,,Working Day,,,Mohmand Agency ,32.9746,70.1456,FATA,Ghaiba Khwar Area of Haleemzai Tehsil,Mobile,Low,Open,,Government Official,None,0,0,3,4,1,NA,Ghallanai Headquarter Hospital,7.52,45.536
+362,Wednesday-November 21-2012,,Working Day,,6:15pm,Karachi,24.9918,66.9911,Sindh,Orangi Town Sec-5E-Near Haider-e-Qarrar Imambargah,Religious,High,Open,Muharram Procession,Religious,Shiite,3,4,4,7,1,4kg-5kg,Qatar Hospital-Abbasi Shaheed Hospital,22.22,71.996
+363,Wednesday-November 21-2012,,Working Day,,,Rawalpindi,33.6058,73.0437,Punjab,Imambargah Qasar-e-Shabbir in Dhok Syedan-Misrial Road,Religious,High,Open,Muharram Procession,Religious,Shiite,12,20,25,40,1,NA,DHQ-Combined Military-Benazir Bhutto Hospital,16.795,62.231
+364,Sunday-November 25-2012,,Holiday,Ashura,,D.I Khan,31.8238,70.9095,KPK,Commissionary Bazaar-Choglia Area,Market,High,Open,Muharram Procession,religious,Shiite,5,6,70,80,1,12kg,District Headquarter Teaching Hospital-Combined Military Hospital,12.21,53.978
+365,Thursday-November 29-2012,,Working Day,,NA,South Waziristan,32.3202,69.8597,FATA,Rustam Bazaar,Mobile,Low,Open,,Anti-Militants,None,5,8,10,18,1,,Tehsil Headquarter Hospital Wana,3.895,39.011
+366,Tuesday-December 4-2012,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Haved Police Station Bannu,Police,High,Open,,Police,None,,,6,10,1,600kg-800kg,DHQ Hospital Bannu,15.435,59.783
+367,Wednesday-December 5-2012,,Working Day,,6:30AM,South waziristan,32.3202,69.8597,FATA,Zaree Noor Camp-Angoor Adda Rd,Military,High,Open,,Military,None,2,3,20,25,1,,First Treatment Hospital,7.1,44.78
+368,Saturday-December 22-2012,,Holiday,Weekend,,Peshawar,34.0043,71.5448,KPK,Dhaki Nalbandi Area-Qissa Khwani Bazar,Residence,High,Closed,,Government Official,None,,9,17,20,1,4kg-6kg,Lady Reading Hospital,15.065,59.117
+369,Thursday-January 10-2013,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,Two suicide bombers blew themselves up at a crowded snooker club on Alamdar Road,Market,High,Closed,,Civilian,Shiite,51,93,116,121,2,,Civil Hospital and the Combined Military Hospital-Quetta,9.06,48.308
+370,Friday-February 1-2013,,Working Day,,Friday prayer time,Hangu,33.5351,71.0713,KPK,Masjid Faizullah and Masjid Purdil near Marketplace,Religious,High,Open,Possibley anti-taliban Sunni Council,Civilian,Sunni,24,27,40,50,1,,DHQ-Kohat,10.79,51.422
+371,Thursday-February 14-2013,,Working Day,,,Hangu,33.5351,71.0713,KPK,Security checkpost located in Tal area of Hangu ,Military,High,Open,FC check post,Military,None,7,,8,23,1,,,12.12,53.816
+372,Thursday-February 14-2013,,Working Day,,,Bannu,32.935,70.6688,KPK,Maryan police station in Frontier Region Bannu,Police,High,Open,TTP avenged killing of their fighters in custody and bodies thrown in Miramshah,Police,None,0,0,1,,4,,,8.31,46.958
+373,Saturday-February 16-2013,,Working Day,Weekend,6:00pm,Quetta,30.2095,67.0182,Baluchistan,Kirani Road near Hazara Town,Market,Medium,Open,,Civilian,Shiite,64,84,180,200,1,1000kg,Civil Hospital and the Combined Military Hospital,5.49,41.882
+374,Monday-February 18-2013,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Khyber Agency's Political Agent Office in Peshawar,Office Building,High,Closed,,Government Official,None,5,,7,,2,6kg,Lady Reading Hospital,15.55,59.99
+375,Monday-March 18-2013,,Working Day,,12:10pm,Peshawar,34.0043,71.5448,KPK,Judicial Complex loacated on Khyber Road,Office Building,High,open,Court Proceeding,Government Official,None,2,4,22,47,2,6kg,Lady Reading Hospital,18.725,65.705
+376,Saturday-March 23-2013,,Holiday,Pakistan Day,,North waziristan,32.9746,70.1456,FATA,Security Checkpost near Miramshah,Military,High,Open,Tochi Scouts Check Post Building,Military,None,8,22,20,35,1,,,6.44,43.592
+377,Friday-March 29-2013,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Near security check post Saddar Cantt area of Peshawar,Market,High,Open,FC convoy,Military,None,5,12,11,35,,,Lady Reading Hospital,21.525,70.745
+378,Tuesday-April 16-2013,,Working Day,,,Peshawar,34.0043,71.5448,KPK,The bomb blast took place in Yakatoot in Kotwali Abid Khan,Market,High,Open,Election campain gathering of a Secular Party,Civilian,None,16,18,49,60,1,6kg,Lady Reading Hospital,22.805,73.049
+379,Tuesday-April 16-2013,,Working Day,,5:30pm,North waziristan,32.9746,70.1456,FATA,Near Dirdhoni Check Post,Military,High,Open,Military Convoy,Military,None,7,9,8,18,1,,Military Hospital Miranshah,16.9,62.42
+380,Saturday-April 20-2013,,Working Day,,,Bajaur Agency,34.8718,71.5249,FATA,Outside Headquarter Hospital,Office Building,High,Open,,Civilian,None,4,4,4,4,1,#N/A,Headquarter Hospital Bajour Agency,18.81,65.858
+381,Tuesday-April 23-2013,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,Paramilitary check post near the Shiite neighbourhood,Residence,High,Open,Secratian,Civilian,Shiite,6,6,37,40,1,,,17.65,63.77
+382,Monday-April 29-2013,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Jehangir Abad neighbourhood on Arbab Road,Market,High,Open,,civilian,None,8,10,30,45,,6kg,Khyber Teaching Hospital,23.69,74.642
+383,Wednesday-May 1-2013,,Holiday,Labour Day,,Shikarpur,28,68.6667,Sindh,Southern Shikarpur district of Sindh province-some 400 kilometres (250 miles) northeast of Karachi,Mobile,Low,Open,Parliamentary Candidate from National People's Party in Sindh,civilian,None,1,1,2,2,,,,30.715,87.287
+384,Tuesday-May 7-2013,,Working Day,,,Hangu,33.5351,71.0713,KPK,Near Market in the town of Doaba,Market,High,Open,KP 43 Election Candidate Syed Janan of JUIF,Civilian,None,12,12,35,40,,,,25.335,77.603
+385,Wednesday-May 8-2013,,Working Day,,5:30am,Bannu,32.935,70.6688,KPK,Domail Police station Bannu,Police,High,Open,Bannu Police,Police,None,2,3,23,27,,,Government Hospital Bannu,20.715,69.287
+386,Saturday-May 11-2013,,Holiday,General Elections,Evening,Karachi,24.9918,66.9911,Sindh,Manghopir,Military,Medium,Open,,Military,,2,2,3,5,,,,30.64,87.152
+387,Sunday-May 12-2013,,Holiday,Weekend,Evening,Quetta,30.2095,67.0182,Baluchistan,Residence IG Police province of Balochistan,Police,High,Open,,Police,None,6,7,45,68,,,Civil Hospital,23.635,74.543
+388,Friday-May 24-2013,,Working Day,,Noon,Peshawar,34.0043,71.5448,KPK,Outside Jamia Uloom al-Islamia Peshawar,Religious,High,Open,Afghan Religious Leader Haji Hidayatullah,religious,None,3,3,2,2,,6kg,,34.725,94.505
+389,Monday-June 3-2013,,Working Day,,,North waziristan,32.9746,70.1456,FATA,Razmak town 20kms to the north of Miramshah,Military,High,Open,Security Checkpost,Military,None,,,2,2,,,,21.715,71.087
+390,Saturday-June 15-2013,,Working Day,,Noon,Quetta,30.2095,67.0182,Baluchistan,Parking of Sardar Bahadur Khan University-Quetta,Educational,Low,Open,,civilian,None,12,14,19,19,,,Bolan Medical Complex Quetta,29.55,85.19
+391,Saturday-June 15-2013,,Working Day,,Noon,Quetta,30.2095,67.0182,Baluchistan,Bolan Medical Complex,Hospital,Low,Closed,Security officials visiting victims of suicide attack on student bus of Sarda Bahdur Khan Women Univrsity ,Police,None,11,11,,,,,Bolan Medical Complex Quetta,29.55,85.19
+392,Tuesday-June 18-2013,,Working Day,,4pm,Mardan,34.1982,72.0444,KPK,Zaragaranoo Kallay-Ittehad Colony Mardan,Park/Ground,Low,Open,Police officials argue that Imran Khan Mohmand-a provincial lawmaker seems to have been the target,civilian,None,27,34,52,60,,7-8kg, Tehsil Headquarters Takht Bhai-Mardan Medical Complex and Lady Reading Hospital in Peshawar,27.465,81.437
+393,Friday-June 21-2013,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Gulshan Colony,Religious,High,Closed,Sectarian strife,Civilian,Shiite,14,15,28,30,,6-7Kg,Lady Reading Hospital,35,95
+394,Sunday-June 30-2013,,Holiday,Weekend,Evening,Quetta,30.2095,67.0182,Baluchistan,Hazara Town,Religious,High,Open,Sectarian strife,Civilian,Shiite,28,30,65,70,,,Bolan Medical Complex Quetta-CMH-Civil Hospital,30.915,87.647
+395,Monday-July 8-2013,,Working Day,,,Hangu,33.5351,71.0713,KPK,Doaba Bazaar,Market,High,Open,Tribal elder Malik Habibullah Khan was the target,Civilian,,6,8,10,10,,,,30.72,87.296
+396,Thursday-July 25-2013,,Working Day,,Evening,Sukkur,27.6833,68.8667,Sindh,Sukkur Barrage Colony,Police,Low,Open,Coordinated assault on ISI sukkur office building,Military,None,8,9,30,30,2,,,36.345,97.421
+397,Friday-July 26-2013,,Working Day,,Evening,Kuram Agency ,32.9746,70.1456,KPK,Parachinar Bazaar,Market,High,Open,,Civilian,Shiite,43,50,180,200,2,,Parachinar Headquarters Hospital,26.015,78.827
+398,Thursday-August 8-2013,,Holiday,Eid Holidays,,Quetta,30.2095,67.0182,Baluchistan,Police Headquarters Quetta,Police,High,Open,Gathering on Funeral prayers of SHO City Mohibullah who was shot dead earlier in the day,Police,None,30,38,50,60,1,8kg,Civil Hospital and CMH Quetta,31.06,87.908
+399,Sunday-September 22-2013,,Holiday,,,Peshawar,34.0043,71.5448,KPK, All Saints Church near Qissa Khawani bazaar in  Peshawar,Religious,High,Open,Two suicide attackers blew themselves up outside a church near Qissa Khawani bazaar,Civilian,None,78,81,100,145,2,,Lady Reading Hospital,29.84,85.712
+400,Wednesday-October 2-2013,,Working Day,,,Chaman,30.9222,66.4447,Baluchistan,southwestern border crossin between Afghanistan and Pakistan,Office Building,High,Open,,Government Official,None,6,8,10,16,1,,,24.42,75.956
+401,Thursday-October 3-2013,,Working Day,,,Hangu,33.5351,71.0713,KPK,Spin Tall region of Hangu,Residence,High,Open,A Compound of an anti-Taliban militia commander Mullah Nabi Hanafi was targetted by militants,Anti-Militants,None,15,17,22,22,1,,,25.96,78.728
+402,Friday-October 11-2013,,Working Day,,,South waziristan,32.3202,69.8597,FATA,Wana-main town of South waziristan,Military,High,Open,Military Convoy,Military,None,2,2,2,2,,,,19.61,67.298
+403,Wednesday-October 16-2013,,Holiday,Eid Holidays,Evening,D. I Khan,31.8238,70.9095,KPK,Tehsil Kulachi-50km away from D.I Khan,Residence,High,Open,KP Law Minister Israrullah Gandapur was targeted and killed in the attack,Civilian,None,8,9,30,30,,,,28.61,83.498
+404,Saturday-November 16-2013,,Holiday,Weekend,,Bannu,32.935,70.6688,KPK,Near River Kurram bridge,Mobile,High,Open,Targeted van of security forces ,Military,None,0,0,7,7,,,CMH Bannu,13.09,55.562
+405,Tuesday-November 19-2013,,Working Day,,,North waziristan,32.9746,70.1456,FATA,Mir Ali town of Miramshah,Park/Ground,High,Open,It is said that Bannu TTP Militant commander Saifuddin was the target,Anti-Militants,None,7,7,1,1,,,,12.545,54.581
+406,Friday-November 22-2013,,Working Day,,10:55 AM,Khyber Agency,34.0211,71.2874,KPK,Torkhan customs office in Landikotal,Office Building,Medium,Closed,,Government Official,None,0,0,26,26,,5kg,Hayatabad Medical Complex-Peshawar,15.985,60.773
+407,Tuesday-December 17-2013,,Working Day,,Evening,Rawalpindi,33.6058,73.0437,Punjab,Gracy line area near Airport,Religious,Medium,Open,Sectarian strife,Civilian,Shiite,3,3,14,,,,Benazir Bhutto Hospital and District Headquarters Hospital,14.39,57.902
+408,Wednesday-December 18-2013,,Working Day,,Evening,North waziristan,32.9746,70.1456,FATA,Kharoji checkpoint-about three kilometres east of Miranshah,Military,High,Open,Targeted security checkpoint as a revenge for killing Hakimullah Mahsud,Military,None,5,5,25,34,,,,8.19,46.742
+409,Friday-December 20-2013,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Pakhtoon Chowk close to Old Sabzi Mandi-Karachi,Market,Medium,Open,Inspector Shafiq Tanoli was targeted,Police,None,2,2,20,21,,,Jinnah Hospital,18.735,65.723
+410,Wednesday-January 1-2014,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,Qambrani Road in Akhtarabad-on the outskirts of Quetta,Transport,High,Open,Sectarian strife,Civilian,Shiite,2,3,30,31,,,Bolan Medical Complex,1.605,34.889
+411,Monday-January 6-2014,,Working Day,,,Hangu,33.5351,71.0713,KPK,Shia-dominated Ibrahimzai area of Hangu district,Educational,High,Open,Sectarian strife,Civilian,Shiite,2,2,2,2,,,,9.235,48.623
+412,Thursday-January 9-2014,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Near Essa Nagri at the Lyari Expressway,Mobile,Low,Open,Superintendent of Police (SP) Crime Investigation Department (CID) Chaudhry Aslam was the TTP target,Police,None,3,3,7,11,,20-25kg,Agha Khan University Hospital,15.395,59.711
+413,Monday-January 20-2014,,Working Day,,7:45 AM,Rawalpindi,33.6058,73.0437,Punjab,R.A Bazaar,Market,High,Open,TTP claimed this attack as ‘payback’ for a deadly military raid on the Lal Masjid (Red Mosque) in Rawalpindi in 2007.,Military,None,13,13,15,15,,,,11.455,52.619
+414,Thursday-January 23-2014,,,,,Peshawar,34.0043,71.5448,KPK,Kohat road,,,,,,,,6,,8,,,,11.11,51.998
+415,Wednesday-January 29-2014,,Working Day,,,Karachi,24.9918,66.9911,Sindh,North Nazimabad Rangers headquarters,Military,High,Open,Rangers targeted by TTP,Military,None,3,3,0,1,,,Abbasi Shaheed Hospital,19.865,67.757
+416,Tuesday-February 4-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Kocha Risaldar area of Peshawar,Hotel,Medium,Closed,Sectarian strife,Civilian,None,9,9,25,50,,5Kg,Lady Reading Hospital ,10.82,51.476
+417,Friday-February 7-2014,,Working Day,,,Khanewal,30.2999,71.9308,Punjab,,Mobile,Low,Open,Search operation of Security forces,Police,None,0,0,5,5,,,,13.335,56.003
+418,Monday-February 10-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Essa Khel Garhi area of Peshawar,Residence,Low,Open,Search operation of Security forces,Civilian,None,4,4,3,3,,6kg,Lady Reading Hospital,12.535,54.563
+419,Thursday-February 13-2014,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Razzaqabad police training college in Karachi's Shah Latif Town,Police,High,Open,TTP revenge,Police,None,11,13,36,47,,25-30kg,Jinnah Hospital,20.305,68.549
+420,Monday-February 24-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Iranian consulate in University Town,Mobile,High,Open,Sectarian strife,Military,None,2,3,8,10,,60kg,Lady Reading Hospital,16.13,61.034
+421,Monday-March 3-2014,,Working Day,,,Islamabad,33.718,73.0718,Capital,District court in Islamabad sector F-8,Office Building,Medium,Open,Judge with Laal masjid case,Government Official,None,11,11,24,29,,,Pakistan Institute of Medical Sciences,10.81,51.458
+422,Friday-March 14-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Sarband Area on the outskirts of city,Police,High,Open,Police patrol,Police,None,8,11,32,45,,14kg,Lady Reading Hospital,17.68,63.824
+423,Thursday-April 24-2014,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Near old vegetable market,Market,High,Open,Police Inspector Ishfaq Tanoli was the target of the blast,Police,None,2,4,2,15,,,,30.56,87.008
+424,Sunday-May 11-2014,,Holiday,,12:40 PM,Peshawar,34.0043,71.5448,KPK,Inside a mosque in Shahi Bagh area near Tirah IDPs registration center,Religious,High,Closed,IDPs of Tirah Valley,Civilian,None,4,5,9,11,,10kg,Lady Reading Hospital ,25.31,77.558
+425,Wednesday-June 4-2014,,Working Day,,9:20:00 AM,Fateh Jang,33.5689,72.6378,Punjab,At a railway crossing at the junction of Fateh Jang and Rawalpindi,Mobile,Low,Open,Security forces vehicle,Military,None,5,5,5,5,,2kg,DHQ Fateh Jang,31.055,87.899
+426,Sunday-June 8-2014,,Holiday,,,Taftan,28.28,62.35,Baluchistan,Hotel in Taftan near the Pakistan-Iran border,Hotel,High,Closed,Shia pilgrims,Civilian,Shiite,23,30,7,16,,,CMH Quetta,27.51,81.518
+427,Monday-June 9-2014,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Jinnah Airport-Airport Road Karachi,,,,,,,,28,,24,,,,32.695,90.851
+428,Thursday-June 19-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Residence of an anti-Taliban peace militia in Matan Adezai area of Peshawar ,Residence,Medium,Closed,Farman Ullah-the leader of anti-militants lashkar,Civilian,None,1,2,5,5,,,Lady Reading Hospital ,32.965,91.337
+429,Tuesday-June 24-2014,,Working Day,,,North waziristan,32.9746,70.1456,FATA,Near a military checkpost in Spinwam village in Shawal valley,Hospital,High,Open,Operation Zarb-e-Azab,Military,None,3,3,1,1,,,,28.265,82.877
+430,Wednesday-September 24-2014,,Working Day,,,Peshawar,34.0043,71.5448,KPK,,Mobile,Medium,open,the target of the bombing appeared to be Brigadier Khalid Javed-the second most senior officer in the Frontier Corps force,Military,None,4,5,18,29,,45KG,Lady Reading Hospital-Combined Military Hospital,29.84,85.712
+431,Saturday-October 04-2014,,Working Day,,Night,Quetta,30.2095,67.0182,Baluchistan,Near a girls high school in Hazara Town,Educational,High,Open,Hazara ethnic shitte group,Civilian,Shiite,5,5,12,12,,,Bolan Medical Complex Hospital-Combined Military Hospital (CMH),26.59,79.862
+432,Wednesday-October 15-2014,,,,,Tirah Valley,33.8679,70.51364,FATA,Pir Mela Area of Tirah Valley in Khyber Agency,,,,,,,,7,,5,,,,17.21,62.978
+433,Thursday-October 23-2014,,Working Day,,,Quetta,30.2095,67.0182,Baluchistan,,Park/Ground,Medium,open,Jamiat Ulema-e-Islam-Fazl (JUI-F) chief Fazlur Rehman had a narrow escape as a suicide bomber detonated explosives near his vehicle outside a political rally in Quetta ,Civilian,None,2,3,15,20,,,,21.405,70.529
+434,Sunday-November 02-2014,,Holiday,Weekend,,Wagah,31.6047,74.5729,Punjab,Pak-India Border Crossing on Grand Trunk Road,Military,High,open,,Civilian,None,45,55,70,120,,15KG,General Hospital Lahore-,22.18,71.924
+435,Tuesday-December 16-2014,,,,,Peshawar,34.0043,71.5448,KPK,Army Public School,,,,,,,,148,,132,,,,9.86,49.748
+436,Sunday-December 28-2014,,,,,Zhob,31.35,69.45,Balochistan,Ismailzai,,,,,,,,2,,0,,,,8.445,47.201
+437,Friday-January 30-2015,,,,,Shikarpur,28,68.6667,Sindh,Imambargah,,,,,,,60,62,,39,,,,16.225,61.205
+438,Friday-February 13-2015,,,,,Peshawar,34.0043,71.5448,KPK,Imambargah,,,,,,,,21,,60,,,,17.235,63.023
+439,Tuesday-February 17-2015,,,,,Lahore,31.5451,74.3407,Punjab,Near Police Line ,,,,,,,5,9,,,,,,18.68,65.624
+440,Wednesday-February 18-2015,,,,,Rawalpindi,33.6,73.0333,Punjab,Qasre-sina Imambargah-kurri road,,,,,,,,5,,6,,,,15.25,59.45
+441,Sunday-March 15-2015,,,,,Lahore,31.5451,74.3407,Punjab,Outside Church,,,,,,,,17,70,72,,,,18.63,65.534
+442,Friday-March 20-2015,,,,,Karachi,24.9918,66.9911,Sindh,Roadside Qalandria Chowk North Nazimabad,,,,,,,2,3,0,0,,,,27,80.6
+443,Wednesday-May 6-2015,,Working Day,,,KURRAM AGENCY,32.9746,70.1456,FATA, outside a high-school football ground in Alizai area of Lower Kurram Agency,,,,,,,2,3,,3,,,Ali Zai Hospital,25.985,78.773
+444,Tuesday-May 26-2015,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Orangi Town Faqeer Colony,,,,,Rangers,,1,2,,,,,,33.05,91.49
+445,Tuesday-May 26-2015,,Working Day,,,Karachi,24.9918,66.9911,Sindh,Orangi Town Faqeer Colony,,,,,,,,5,,,,,,33.05,91.49
+446,Friday-May 29-2015,,Working Day,,,Lahore,31.5451,74.3407,Punjab,Kalma Chowk near  Qaddafi Stadium,,,,,,,1,2,,6,,,,34.08,93.344
+447,Saturday-June 06-2015,,Weekend,,,Sargodha,32.0836,72.6711,Punjab,near Ghausia Market Sargodha,,,,,,,,2,,6,,,,29.9,85.82
+448,Monday-June 08-2015,,Working Day,,,North waziristan,32.9746379,70.1455,FATA,near the Afghan border in Pakistan's restive North Waziristan tribal area,,,,The clashes were marked by an intense exchange of fire between security forces and militants-the report added. Of the 19 militants killed-five were militant commanders. The seven soldiers were killed when one of the militants detonated a suicide vest while being chased by troops.,,,7,19,,,,,,26.82,80.276
+449,Thursday-June 11-2015,,Working Day,,,Peshawar,34.0043,71.5448,KPK,Peshawar’s Hayatabad area ,,,,,,,1,2,4,7,,,,30.58,87.044
+450,Monday-June 29-2015,,Working Day,,,Lahore,,,Punjab,A house in Sheikhupura district ,,,,,,,1,4,,http://www.samaa.tv/pakistan/29-Jun-2015/shootout-after-suicide-attack-in-lahore,,,,,
+451,Friday-July 17-2015,,Holiday,,,Quetta,,,Balochistan,Entrance of a Shiite neighborhood in southwestern Pakistan,,,, a suicide attacker has detonated his explosive vest at the entrance of a Shiite neighborhood in southwestern Pakistan killing one security guard.,,,1,1,,,,,,,
+452,Sunday-Aug 16-2015,,Holiday,,,ATTOCK,33.768734,72.362147,Punjab,Political office in Attock’s Shadi Khan area,,,, Punjab home minister Colonel (retd) Shuja Khanzada was killed in a suicide attack on his political office in Shadi Khan village Attock Sunday along with 16 others.,,,16,19,23,25,,,,28.655,83.579
+453,Thursay-Aug 27-2015,,Working Day,,,MULTAN,30.193636,71.449009,Punjab, house in the town of Pir Mahal,,,,,,,4,4,,2,,,,33.575,92.435
+454,Tuesday-Sep 01-2015,,Working Day,,,Khyber Agency,34.021103,71.287421,KPK, a local government office in Jamrud Bazaar area   Khyber Agency,,,,,,,3,6,50,56,,,Hayatabad Medical Complex,28.225,82.805
+455,Sunday-Sep 20-2015,,Holiday,,,Karachi,24.879503,67.174575,Sindh,Residential Building in Rafah-e-Aam Society in Karachi,Residential Building,Low,closed,A suicide bomber blew himself up during a joint action by police and Rangers early on Sunday morning in Rafah-e-Aam Society in Karachi. The blast injured 2 police officers. The attackers were scheming for terrorist activities on Eid-ul-Azha.,Police & Rangers,,1,,2,,1,,,35,95
+456,Wednesday-Oct 14-2015,,Working Day,,,Taunsa,30.712665,70.658161,Punjab,At PoliticalParty MP's office on College road Taunsa DGK.,,,,Public meeting with MPA was targeted at political party office.,,,7,,10,20,1,13KG,,29.11,84.398
+457,Thursday-Oct-22-2015,,Holiday,Ashura Holiday,,Quetta,30.182971,66.998734,Balochistan,Shiite mosque in southwest Pakistan's Sibi district ,Religious,,closed,"Attack took place when the Shiites were holding a gathering ahead of the Ashoura, a key religious event. ",Religious,Shiite,10,11,12,15,1,,Bhag Hospital,16.25,61.25
+458,Friday-Oct-23-2015,,Holiday,Ashura Holiday,,Jacobabad,28.274681,68.712889,Sindh,Attack on Muharram Procession in Jacobabad near Lashari Muhalla,,,,Attack on Muharram procession,Religious,Shiite,22,23,40,40+,,,Jacobabad Civil Hospital,28.59,83.462
+459,Tuesday-Dec-29-2015,,Working Day,,,Mardan,34.200114,72.050801,KPK,NADRA office Nisatta Road  Mardan,Government,,,,Civilian,,21,26,50,56,,8KG,district headquarters hospitaldistrict headquarters hospital,13.53,56.354
+460,Wednesday-Jan 13-2016,,Working Day,,,Quetta,30.165686,67.00178,Balochistan, Polio centre in Satellite town Quetta,,,,Attack on Polio Centre,Civilian & Police,None,15,15,25,36,,8KG,"Civil Hospital, CMH ",6.855,44.339
+461,Tuesday-Jan 19-2016,,Working Day,,,Peshawar,33.999533,71.42502,KPK, check post in Karkhano Market- adjacent to Jamrud in Khyber Agency,,,,Attack on Check Post,,None,10,12,20,25,1,,Hayatabad Medical Complex ,11.645,52.961
+462,Friday-Jan 29-2016,,Working Day,,,Zhob,31.341261,69.448659,Balochistan,Suicide Bomber Attacks Army Facility ,,,,,Army,None,0,0,5,6,1,,Civil Hospital Zhob,11.125,52.025
+463,Saturday-Feb 06-2016,,Working Day,,,Quetta,30.199805,67.010157,Balochistan,Attack on vehicle of Frontier Corps  near Liaquat Park Quetta ,,,, Attack on vehicle of Frontier Corps ,Frontier Corps ,None,9,11,30,35,1,8-10KG,Civil Hospital Quetta- CMH ,9.945,49.901
+464,Saturday-Mar 07-2016,,Working Day,,,Shabqadar-Charsadda,34.149433,71.742781,KPK,Attack outside of session court in Shab-Qadar Charsadda ,,,,,,None,10,20,27,31,1,,Lady Reading Hospital,16.715,62.087
+465,Sunday-Mar 27-2016,,Holiday,,,Lahore,31.51293,74.28899,Punjab,Attack in children's play area of Park in Lahore,,,,,,Christian,70,72,233,300,1,8-10KG,"Jinnah Hospital,Sheikh Zaid Hospital,Services Hospital,Farooq Hospital,Meo Hospital,Bajwa Hospital",22.565,72.617
+466,Saturday-Apr 16-2016,8 Rajab 1437 A.H.,Working Day,,,Khyber Agency,34.047839,71.28436,FATA,Hujra of Said Jamal in the Kharko Sarhgi area in the Zakhakhel tehsil of Khyber Agency,Residence,High,closed,,Civilian,None,2,2,0,0,1,,,25.405,77.729
+467,Tuesday-Apr 19-2016,10 Rajab 1437 A.H.,Working Day,,,Mardan,34.207854,72.049453,KPK,Mardan Excise and Taxation Department located in Cantonment Area on Mall Road in Mardan District,Government,High,closed,Attack on Mardan Excise and Taxation Department,Government Official,None,1,1,10,18,1,8-10KG,,23.105,73.589
+468,Monday-May 30-2016,22 Shaban 1437 A.H.,Working Day,,,Mardan,34.195682,72.037771,KPK,Mardan City Police Station,Police,High,Open,"Attack on City Police Station, Mardan",Police,None,1,1,12,15,1,8-10KG,Mardan district hospital.,30.02,86.036
+469,Monday-Aug 08-2016,05 Zeqad 1437 A.H.,Working Day,,,Quetta,30.194225,67.008822,Balochistan,"Civil Hospital, Quetta",Government,High,Closed,The fatalities were mainly advocates,advocates (lawyers),None,70,70,112,120,,8KG,,29.585,85.253
+470,Friday-Sep 02-2016,29 Zeqad 1437 A.H.,Working Day,,5:50 AM,Mardan,34.195776,72.036565,KPK,Mardan District Court,Government,High,closed,"Attack on District Court, Mardan",Civilian,None,13,14,52,60,1,6KG,,27.805,82.049
+471,Tuesday-Sep 13-2016,10 Zilhaj 1437 A.H.,Holiday,Eid ul Azha Holiday,7:30 AM,Shikarpur,28.002718,68.730383,Sindh,Imambargah,Religious,High,Closed,Attack on Shia Imambargah on Eid ul Azha Prayer,religious,Shiite,0,0,10,13,,,,31.945,89.501
+472,Friday-Sep 16-2016,13 Zilhaj 1437 A.H.,Working Day,,1:30 PM,Mohmand Agency ,34.400331,71.560424,FATA,"Jamea Masjid, Pai Khan",Religious,High,Closed,Attack on Masjid During Jumma Prayer,religious,,16,36,22,,1,,District Headquarters Hospital (DHQ) Bajaur Agency,28.68,83.624
+473,Tuesday-Oct-25-2016,23 MuHarram 1438 A.H.,Working Day,,12:00am,Quetta,30.14283,66.98195,Balochistan,police training center,Government,High,Closed,"Attack on Police Training Center, Saryab Road, Quetta",Police,,58,61,100,165,2,8-10 KG,,14.545,58.181
+474,Saturday-Nov-12-2016,11 safar 1438 A.H.,Weekend,,6:00 PM,Khuzdar,25.776775,67.02239,Balochistan,Dargah Shah Noorani Shrine,Religious,High,Closed,Attack on Dargah Shah Noorani in Khuzdar district,Civilian,None,45,52,100,100,1,,"Hub, Khuzdar, Lasbella and Civil Hospital in Karachi",,
+475,Saturday-Nov-26-2016,25 safar 1438 A.H.,Weekend,,6:00 AM,Mohmand Agency,34.325826,71.398789,FATA,FC Check Post,Military,High,Open,"Attack Camp of Mohmand Rifles in Mohmand Agency Headquarters, Ghalani, Mohmand Agency",Military,None,2,2,14,14,4,,,17.63,63.734
+476,Tuesday-Feb-7-2017,09 Jamadi-ul-Awal 1438 A.H. ,Working Day,,5:00 AM,Bannu,32.949814,70.60908,KPK,"Police Station Mandan, Bannu",Police,High,Open,"Attack on Mandan Police Station, Bannu",Police,None,0,0,2,2,1, 20 KG,DHQ Hospital Bannu,19,
+477,Monday-Feb-13-2017,16 Jumada al-awwal 1438 A.H,Working Day,,6:00 PM,Lahore,31.555382,74.331873,Punjab,"Mall road, Lahore",Government,High,Open,Attack on pharmaceutical protest,Civilian,None,14,18,83,90,1,NA, 1. Mayo Hospital 2.  Sir Ganga Ram Hospital,16.255,61.259
+478,Wednesday-Feb-15-2017,19 Jumada al-awwal 1438 A.H,Working Day,,8:00 AM,"Ghallanai, Mohmand Agency ",34.5,71.333333,FATA,"main gate of Mohmand Agency headquarters, Ghallanai",Commercial/residence,High,Open,Attack on paramilitary HQ,Army,None,5,8,0,3,1,,Lady Reading Hospital,11.115,52.007
+479,Wednesday-Feb-15-2017,19 Jumada al-awwal 1438 A.H,Working Day,,3:30 PM,Hayatabad,33.986111, 71.456944,KPK,Hayatabad Medical Complex,Commercial/residence,Medium,Open,inauguration of the Out Patient Department (OPD) at the Hayatabad Medical Complex,Civilian Judges,None,1,1,4,18,1,15 KG,Hayatabad Medical Complex,16.63,61.934
+480,Wednesday-Feb-15-2017,19 Jumada al-awwal 1438 A.H,Working Day,,9:00 AM,"Mosal Kor, Mohmand Agency",34.553808,71.434141,FATA,Office of political agent,Government,High,,,Government Official,None,1,1,0,0,1,,,,
+481,Thursday-Feb-16-2017,20 Jumada al-awwal 1438 A.H,Working Day,,6:00 PM,Sehwan town,26.419314,67.859373,Sindh,Lal Shahbaz Qalandar shrine,Religious,High,Closed,Attack on shia community,Shia sect,shiite,70,72,150,200,1,,1. Sehwan Taluka Hospital 2. Combined Military Hospital Hyderabad,23.71,74.678
+482,Tuesday-Feb-21-2017,25 Jumada al-awwal 1438 A.H,Working Day,,9:00 AM,"Tangi, Charsadda District",34.3,71.653889,KPK,Court,Government,High,Closed,Attack on lawyers and judges,Judges & lawyers,None,6,7,15,20,2,NA,Lady Reading Hospital,11.18,52.124
+483,Wednesday-April-05-2017,08 Rajab 1438 A.H,Working Day,,7:15 AM,Lahore,31.463017,74.435675,Punjab,Bedian Road,,Low,Open,Population Census Team,Military,None,6,7,19,22,,NA,"Combined Military Hospital (CMH), General Hospital",29,84.2
+484,Friday-May-12-2017,15 Shaban 1438 A.H,Working Day,,2:30 PM,Quetta,29.800833,66.848056,Baluchistan,Town of Mastung, ,Low,Open,Sucide bomber wearing an explosive vest carried out the attack.,Government Official,None,25,28,35,37,1,NA,,44,111
+485,Saturday-May-20-2017,23 Shaban 1438 A.H,Weekend,,,Kohat,33.38752,71.340408,KPK,Kamal khel area near lachi kohat,Police,Low,Open,Terrorist ambushed a police party while it was on its way to arrest criminals,Police,None,1,4,0,0,,NA,,37,99
+486,Friday-June-23-2017,27 RamaDHaan 1438 A.H,Working Day,,1:30 PM,Quetta,33.88423,70.10878,Balochistan,Parachinar town in the restive tribal bel,Religious,Low,Open,Suicide bombers targeting the capital of Balochistan province and the Shia-majority Parachinar town days before the end of the holy month of Ramzan.,Shia sect,Shiite,30,85,100,100+,3,75KG,,36,97
+487,Monday-July-10-2017,16 SHawwal 1438 A.H,Working Day,,11:43 AM,Chaman,30.90983,66.452402,Balochistan,Boghra Road,,Low,Open,Sucide bomber wearing an explosive vest carried out the attack.,Police,None,1,3,1,11,1,,,38,100
+488,Monday-July-17-2017,22 Shawaal 1438 A.H,Working Day,,,Peshawar,34.015,71.5805,KPK,near the Afghan border,Military,High,open,suicide bomber riding on a motorcycle hit a Frontier Corps vehicle in Peshawar,Military,None,1,2,1,7,1,,,37,98
+489,Monday-July-17-2017,22 Shawaal 1438 A.H,Working Day,,,Peshawar,34.015,71.5805,KPK,southwestern Chaman province,Military,High,Open,bomb struck in southwestern Chaman province,Military,None,1,1,1,1,1,,,37,98
+490,Monday-July-24-2017,29 Shawaal 1438 A.H,Working Day,,3:55 PM,Lahore,31.500875,74.33312,Punjab,near Arfa Karim IT Tower Ferozepur Road,,Medium,Open,,Police,,26,27,56,56,1,,"Jinnah Hospital, General Hospital, Ittefaq Hospital",32,88
+491,Saturday-August-12-2017,12 Zeqad 1438 A.H.,Weekend,,5:00 PM,Quetta,30.203658,67.004469,Balochistan,Pishin bus stop,,Medium,Open,the attacker had been carrying 25kg of “incendiary explosives” on a motorcycle that he had rammed into the military truck,Military,None,15,15,40,40,1,25KG,,29,
+492,Thursday-October-05-2017,13 MuHarram 1439 A.H,Working Day,,,Quetta,28.571051,67.496895,Balochistan,Fateh Pur Shrine in Jhal Magsi village,Religious,High,Open/Closed,at the entrance of shrine,Civilian,None,21,22,25,,1,,"Larkana Hospital, Gandawah District Headquarters Hospital, 1 shifted to Aga Khan Hospital KHI",27.8,81
+493,Thursday-October-19-2017,27 MuHarram 1439 A.H,Working Day,,8:00 AM,Quetta,,,Balochistan,Sariab Mill area,Highway,Low,Open,explosives-laden vehicle rammed into a security forces convoy on the Quetta-Sibi Highway ,Police,None,7,7,22,22,1,,,26,79
+494,Thursday-November-9-2017,19 Safar 1439 A.H,Working Day,,7:00 AM,Quetta,30.221057,67.002524,Balochistan,Quetta's Chaman Housing Scheme on airport road,Police,Low,Open,AIG Hamid Shakil’s vehicle,Police,None,2,2,8,8,1,15KG,"Combined Military Hospital (CMH)-(Quetta), Civil Hospital(Quetta)",25,77
+495,Friday-November-24-2017,5 Rabi Al-Awwal 1439 A.H,Working Day,,7:00 AM,Peshawar,33.970623,71.43862,KPK,"Near Zarghuni Masjid, Phase-2 Hayatabad",Police,Low,Open,a police vehicle of AIG Asharf Noor ,Police,None,1,3,6,8,1,20KG,Hayatabad Medical Complex(Peshawar),22,72
+496,Saturday-November-25-2017,6 Rabi Al-Awwal 1439 A.H,Working Day,,7:00 AM,Quetta,30.139626,66.981476,Balochistan,"Sariab Road, near Bus terminal",Military,Medium,Open,"transport for a colonel in Pakistan's armed forces, was parked near a bus terminal",Military,None,4,4,16,22,1,10KG,Civil Hospital(Quetta),29,84

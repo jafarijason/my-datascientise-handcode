@@ -16,6 +16,6 @@
 
 [002-An Interactive Data Science Tutorial/004-An Interactive Data Science Tutorial](https://thisisjasonjafari.github.io/my-datascientise-handcode/002-An%20Interactive%20Data%20Science%20Tutorial/002-An%20Interactive%20Data%20Science%20Tutorial.html)  
 
-
+ 
 
 [003-Data Cleaning Challenge/001-Handling missing values](https://thisisjasonjafari.github.io/my-datascientise-handcode/003-Data%20Cleaning%20Challenge/001-Handling%20missing%20values.html)  
